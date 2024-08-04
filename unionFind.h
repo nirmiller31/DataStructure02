@@ -1,3 +1,7 @@
+#ifndef UNION_FIND_H_
+#define UNION_FIND_H_
+
+
 #include <iostream>
 #include "hashTable.h"
 
@@ -7,32 +11,59 @@ private:
 
     struct Set {
         T root;
-        int m_size; // Current status of the entry
-        Set() : root(T()), m_size(0) {} // Initialize root with a default value and m_size to 0
-        Set(T t, int size) : root(t), m_size(size) {} // Correct initialization
+        int m_fleet_size; // Current status of the entry
+        int m_pirate_size;
+        int m_rank;
+        Set() : root(T()), m_fleet_size(1), m_pirate_size(0), m_rank(0) {} // Initialize root with a default value and m_size to 0
+        Set(T t, int fleet_size, int pirate_size) : root(t), m_fleet_size(fleet_size), m_pirate_size(pirate_size), m_rank(0) {} // Correct initialization
+        int get_id(){
+            return root->get_id();
+        }
+        int get_fleet_size(){
+            return m_fleet_size;
+        }
+        int get_pirate_size(){
+            return m_pirate_size;
+        }
+        void increase_pirate_size(int size){
+            m_pirate_size += size;
+        }
+        int get_rank(){
+            return m_rank;
+        }
+        void increase_rank(){
+            m_rank += 1;
+        }
+        // void get_treasure(){}
     };
     
-    hashTable<Set> m_sets;
+    HashTable<Set*> m_sets;
     T* m_parent;
     T* m_data;
+    int* m_dynamic_rank;
     int m_total;
     int capacity;
 
     void resize() {
+        
         int new_capacity = capacity * 2;
         T* new_parent = new T[new_capacity];
         T* new_data = new T[new_capacity];
+        int* new_dynamic_rank = new int[new_capacity];
 
         for (int i = 0; i < capacity; ++i) {
             new_parent[i] = m_parent[i];
             new_data[i] = m_data[i];
+            new_dynamic_rank[i] = m_dynamic_rank[i];
         }
 
         delete[] m_parent;
         delete[] m_data;
+        delete[] m_dynamic_rank;
 
         m_parent = new_parent;
         m_data = new_data;
+        m_dynamic_rank = new_dynamic_rank;
         capacity = new_capacity;
     }
 
@@ -41,24 +72,32 @@ public:
     UnionFind(int initial_capacity = 2) : m_total(0), capacity(initial_capacity) {
         m_parent = new T[capacity];
         m_data = new T[capacity];
+        m_dynamic_rank = new int[capacity];
     }
 
     ~UnionFind() {
         delete[] m_parent;
         delete[] m_data;
+        delete[] m_dynamic_rank;
     }
 
     void make_set(T object) {
         while (object->get_id() >= capacity) {
             resize();
         }
+        
         m_parent[object->get_id()] = nullptr;
-        m_sets.insert(Set(object,1));
+        m_dynamic_rank[object->get_id()] = 0;
+        m_sets.insert(new Set(object,1,0));
         m_data[object->get_id()] = object;
 
         if (object->get_id() >= m_total) {
             m_total = object->get_id() + 1;
         }
+    }
+
+    void add_pirate(int id){
+        m_dynamic_rank[id]++;
     }
 
     T find(int id) {
@@ -78,32 +117,45 @@ public:
     T find_root(int id) {
         T root = m_data[id];
         while (m_parent[id] != nullptr) {
-            return find(m_parent[id]->get_id());
+            
+            return find_root(m_parent[id]->get_id());
         }
         return root;
     }
 
+    bool check_excist(int id){
+        return (m_data[id] != nullptr);
+    }
+
+    bool check_fleet_system(int id){
+        return m_sets.search(id);
+    }
+
     void union_sets(T first, T second) {
 
-        int first_size = m_sets.get(first->get_id()).m_size;
-        int second_size = m_sets.get(second->get_id()).m_size;
-        T new_root = first;
-        int new_size = second_size + first_size;
+        int first_fleet_size = m_sets.get(first->get_id())->get_fleet_size();
+        int second_fleet_size = m_sets.get(second->get_id())->get_fleet_size();
 
-        if (first->get_id() != second->get_id()) {
-            if (first_size < second_size) {
+        int first_pirate_size = m_sets.get(first->get_id())->get_pirate_size();
+        int second_pirate_size = m_sets.get(second->get_id())->get_pirate_size();
+
+        int new_fleet_size = first_fleet_size + second_fleet_size;
+        int new_pirate_size = first_pirate_size + second_pirate_size;
+
+        T new_root = (first_pirate_size >= second_pirate_size) ? first : second;
+
+            if (first_fleet_size < second_fleet_size) {
                 m_parent[first->get_id()] = second;
-                new_root = second;
-            } else if (first_size > second_size) {
-                m_parent[second->get_id()] = first;
+                (first_pirate_size >= second_pirate_size) ? m_dynamic_rank[second->get_id()] = first_pirate_size : m_dynamic_rank[first->get_id()] = second_pirate_size;
             } else {
                 m_parent[second->get_id()] = first;
+                (first_pirate_size >= second_pirate_size) ? m_dynamic_rank[second->get_id()] = first_pirate_size : m_dynamic_rank[first->get_id()] = second_pirate_size;
             }
-        }
+
+
         m_sets.remove(first->get_id());
         m_sets.remove(second->get_id());
-        m_sets.insert(Set(new_root,new_size));
-
+        m_sets.insert(new Set(new_root,new_fleet_size,new_pirate_size));
     }
 
     T get_data(int i) {
@@ -114,19 +166,27 @@ public:
         return m_total;
     }
 
+    int get_pirate_size(int id){
+        // std::cout << "fleet " << id << "has" << m_sets.get_pirate_amount(id) << std::endl;
+        return m_sets.get_pirate_amount(id);
+    }
+
+    int get_fleet_size(int id){
+        return m_sets.get_fleet_size(id);
+    }
+
+    int get_pirate_amount(int id, int increasment){
+        return m_sets.get_pirate_size(id,increasment);
+    }
+
     int get_capacity() {
         return capacity;
     }
 
-    void print_set(int root_id) {
-        std::cout << "Elements in the set with root " << root_id << ": ";
-        for (int i = 0; i < m_total; ++i) {
-            if (find(i) == root_id) {
-                std::cout << m_data[i] << " ";
-            }
-        }
-        std::cout << std::endl;
+    int get_rank(int id){
+        return m_dynamic_rank[id];
     }
+
 
     void print_parent() {
         std::cout << "Elements in the parent: ";
@@ -151,9 +211,22 @@ public:
         std::cout << std::endl;
     }
 
+    void print_rank() {
+        std::cout << "Elements in the rank:   ";
+        for (int i = 0; i < m_total; ++i) {
+            if(m_dynamic_rank[i] != 0)
+                std::cout << m_dynamic_rank[i] << " "; 
+            else
+                std::cout << m_dynamic_rank[i] << " ";                
+        }
+        std::cout << std::endl;
+    }
+
+
     void print() {
         print_data();
         print_parent();
+        print_rank();
         m_sets.print();
     }
 
@@ -161,3 +234,4 @@ public:
 };
 
 
+#endif

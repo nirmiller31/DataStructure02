@@ -1,85 +1,54 @@
-#ifndef MAIN_H
-#define MAIN_H
-#include <iostream>
-#include "unionFind.h"
-#include "pirate.h"
-// #include "hashTable.h"
+// #ifndef MAIN_H
+// #define MAIN_H
+// #include <iostream>
+// #include "pirates24b2.h"
 
-int main() {
+// int main() {
 
-    UnionFind<Pirate*> union_find;
-    hashTable<Pirate*> pirate_table;
+//     oceans_t ocean;
 
-    Pirate* pirate_1 = new Pirate(20);
-    Pirate* pirate_2 = new Pirate(5);
-    Pirate* pirate_3 = new Pirate(10);
-    Pirate* pirate_4 = new Pirate(15);
-    Pirate* pirate_5 = new Pirate(22);
-    Pirate* pirate_6 = new Pirate(9);
-    Pirate* pirate_7 = new Pirate(11);
-
-    // pirate_table.insert(pirate_1);
-    // pirate_table.insert(pirate_2);
-    // pirate_table.insert(pirate_3);
-    // pirate_table.insert(pirate_4);
-    // pirate_table.insert(pirate_5);
-    // pirate_table.insert(pirate_6);
-    // pirate_table.insert(pirate_7);
-    // pirate_table.print();
-    // pirate_table.remove(17);
-    // pirate_table.remove(34);
-    // pirate_table.remove(51);
-    // pirate_table.remove(68);
-    // pirate_table.remove(85);
-    // pirate_table.print();
-    // pirate_table.insert(pirate_1);
-    // pirate_table.insert(pirate_2);
-    // pirate_table.insert(pirate_3);
-    // pirate_table.insert(pirate_4);
-    // pirate_table.insert(pirate_5);
-    // pirate_table.print();
+//     ocean.add_fleet(1);
+//     ocean.add_fleet(3);
+//     ocean.add_fleet(2);
 
 
-    union_find.make_set(pirate_1);
-    union_find.make_set(pirate_2);
-    union_find.make_set(pirate_3);
-    union_find.make_set(pirate_4);
-    union_find.make_set(pirate_5);
-    union_find.make_set(pirate_6);
-    union_find.make_set(pirate_7);
 
+//     ocean.add_pirate(3,1);
+//     ocean.add_pirate(5,1);
+//     ocean.add_pirate(4,1);
 
-    union_find.print();
+//     ocean.add_pirate(1,2);
 
-    union_find.union_sets(union_find.find(20),union_find.find(5));
-    union_find.union_sets(union_find.find(10),union_find.find(15));
-    union_find.union_sets(union_find.find(22),union_find.find(9));
+//     ocean.unite_fleets(1,2);
 
-    union_find.union_sets(union_find.find(11),union_find.find(10));
-    union_find.union_sets(union_find.find(9),union_find.find(5));
-
-    union_find.union_sets(union_find.find(22),union_find.find(15));
-
-    union_find.find(5);
-    union_find.find(11);
-    union_find.find(15);
-
-    union_find.print();
-
-    // union_find.find(7);
-    // union_find.find(4);
-    // union_find.find(6);
-
-    // union_find.print();
-
-    // std::cout << "root of find " << union_find.find(1)->get_id() << std::endl;
-    // std::cout << "root of find " << union_find.find(2)->get_id() << std::endl;
-    // std::cout << "root of find " << union_find.find(3)->get_id() << std::endl;
-    // std::cout << "root of find " << union_find.find(9)->get_id() << std::endl;
-    // std::cout << "root of find " << union_find.find(15)->get_id() << std::endl;
-    // std::cout << "root of find " << union_find.find(9)->get_id() << std::endl;
+//     ocean.add_pirate(2,3);
     
-    return 0;
-}
+//     ocean.unite_fleets(3,2);
 
-#endif
+//     ocean.pirate_argument(2,1);
+
+//     // ocean.add_pirate(2,3);
+
+//     // ocean.print_fleet();
+
+    
+
+//     // ocean.print_fleet();
+
+//     // ocean.unite_fleets(1,2);
+
+//     // ocean.print_fleet();
+
+//     // ocean.print_rank(1);    
+//     // ocean.print_rank(2);
+//     // ocean.print_rank(3);
+
+//     // ocean.print_fleet();
+
+//     // ocean.print_rank(6);
+//     // ocean.print_rank(5);
+    
+//     return 0;
+// }
+
+// #endif
