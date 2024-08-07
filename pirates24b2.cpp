@@ -21,7 +21,7 @@ StatusType oceans_t::add_fleet(int fleetId)
 		return StatusType::FAILURE;
 	}
 	Fleet* new_fleet = new Fleet(fleetId);
-	// m_fleet_find.print();
+	
 	m_fleet_find.make_set(new_fleet);
 	
 	return StatusType::SUCCESS;
@@ -30,6 +30,7 @@ StatusType oceans_t::add_fleet(int fleetId)
 
 StatusType oceans_t::add_pirate(int pirateId, int fleetId)
 {
+
 	if(fleetId <= 0 || pirateId <= 0){
 		return StatusType::INVALID_INPUT;
 	}
@@ -49,6 +50,8 @@ StatusType oceans_t::add_pirate(int pirateId, int fleetId)
 
 StatusType oceans_t::pay_pirate(int pirateId, int salary)
 {
+	// m_fleet_find.print();
+
 	if(salary <= 0 || pirateId <= 0){
 		return StatusType::INVALID_INPUT;
 	}
@@ -67,7 +70,7 @@ output_t<int> oceans_t::num_ships_for_fleet(int fleetId)
 	if(fleetId <= 0){
 		return output_t<int>(StatusType::INVALID_INPUT);
 	}
-	if(!m_fleet_find.check_if_excist(fleetId)){
+	if(!m_fleet_find.check_identifier_fleet(fleetId)){
 		return output_t<int>(StatusType::FAILURE);
 	}
 	int fleet_size = m_fleet_find.get_fleet_size(fleetId);
@@ -92,6 +95,9 @@ output_t<int> oceans_t::get_pirate_money(int pirateId)
 
 StatusType oceans_t::unite_fleets(int fleetId1, int fleetId2)
 {
+
+	// m_fleet_find.print();
+
 	if(fleetId1 <= 0 || fleetId2 <= 0 || fleetId1 == fleetId2){
 		return StatusType::INVALID_INPUT;
 	}
@@ -100,8 +106,8 @@ StatusType oceans_t::unite_fleets(int fleetId1, int fleetId2)
 	(m_fleet_find.get_pirate_size(fleetId1) == 0) || (m_fleet_find.get_pirate_size(fleetId2) == 0)){
 		return StatusType::FAILURE;
 	}
-	// m_fleet_find.print();
-	m_fleet_find.union_sets(m_fleet_find.find(fleetId1), m_fleet_find.find(fleetId2));
+
+	m_fleet_find.union_sets(m_fleet_find.find(fleetId1), m_fleet_find.find(fleetId2),fleetId1,fleetId2);
     return StatusType::SUCCESS;
 }
 

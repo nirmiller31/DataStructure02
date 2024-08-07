@@ -22,7 +22,7 @@ private:
     }
 
     int hash2(int key) const {                                              // second hash function (the step function)
-        return (primes[primeIndex] - (key % primes[primeIndex])) + 1;
+        return (primes[primeIndex] - (key % primes[primeIndex]) + 1);
     }
 
     void resize() {                                                         // when a table becomes tight, we double its size
@@ -42,7 +42,7 @@ private:
 
         for (int i = 0; i < oldCapacity; ++i) {                             // reHash elements by the new function
             if (oldindexStatus[i] == Status::TAKEN) {
-                // std::cout << "im inserting: " << oldTable[i]->get_id() << std::endl;
+                
                 insert(oldTable[i]);
             }
         }
@@ -69,7 +69,9 @@ public:
 
     void insert(const T& key) {
 
-        if (size >= capacity / 2) {                                         // our method to resize it (takes more than half)
+
+
+        if (size >= capacity / 4) {                                         // our method to resize it (takes more than half)
             resize();
         }
 
@@ -77,7 +79,6 @@ public:
         int step = hash2(key->get_id());        
 
         while (indexStatus[index] == Status::TAKEN) {                       // search the next free place
-// std::cout << "im inserting: " << key->get_id() << std::endl;
             index = (index + step) % capacity;
         }
 
@@ -103,12 +104,15 @@ public:
     bool search(int key) const {   
         int index = hash1(key);
         int step = hash2(key);
-        // std::cout << "im searchong" << key << std::endl;
+        int start_index = index;
         while (indexStatus[index] != Status::FREE) {                        // search from all that are not free
             if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
                 return true;                                                // if found
             }
             index = (index + step) % capacity;
+            if (index == start_index) {                                      // if we've cycled back to the start index
+                break;                                                       // exit the loop
+        }
         }
         return false;                                                       // passed throw all potential,didnt found
     }
@@ -117,6 +121,17 @@ public:
         int index = hash1(key);
         int step = hash2(key);
 
+            // std::cout << "im inserting: " << key << std::endl;
+            // std::cout << "step: " << table[index]->get_id() << std::endl;
+            // std::cout << "index: " << (indexStatus[index] == Status::DELETED) << std::endl;
+
+
+        if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
+            
+
+            
+            return table[index];                                        // if found
+        }
         while (indexStatus[index] != Status::FREE) {                        // search from all that are not free
             if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
                 return table[index];                                        // if found

@@ -99,6 +99,9 @@ public:
     }
 
     T find(int id) {                                                                // Give me and ID, ill give you it actual root, and maintain connection shortcut
+        
+        // std::cout << "im looking for " << id << std::endl;
+        
         T root = find_root(id);
         if(root == m_data[id]){
             return root;
@@ -139,6 +142,7 @@ public:
     }
 
     int get_pirate_size(int id){                                                    // Gets the updated (by identifier) pirate size
+        // std::cout << "im searchong: " << id << std::endl;
         return m_sets.get_pirate_amount(id);
     }
 
@@ -159,16 +163,22 @@ public:
         return result;
     }
 
-    void union_sets(T first_fleet, T second_fleet) {
+    void union_sets(T first_fleet, T second_fleet, int fleetId1, int fleetId2) {
+
+        // std::cout << "the original first root:" << first_fleet->get_id() << std::endl;
+        // std::cout << "the original second root:" << second_fleet->get_id() << std::endl;
 
         T first = find_root_from_fleet(first_fleet);
         T second = find_root_from_fleet(second_fleet);
 
-        int first_fleet_size = m_sets.get(first->get_id())->get_fleet_size();
-        int second_fleet_size = m_sets.get(second->get_id())->get_fleet_size();
+        // std::cout << "the original first root:" << first->get_id() << std::endl;
+        // std::cout << "the original second root:" << second->get_id() << std::endl;
 
-        int first_pirate_size = m_sets.get(first->get_id())->get_pirate_size();
-        int second_pirate_size = m_sets.get(second->get_id())->get_pirate_size();
+        int first_fleet_size = m_sets.get(fleetId1)->get_fleet_size();
+        int second_fleet_size = m_sets.get(fleetId2)->get_fleet_size();
+
+        int first_pirate_size = m_sets.get(fleetId1)->get_pirate_size();
+        int second_pirate_size = m_sets.get(fleetId2)->get_pirate_size();
 
         int new_fleet_size = first_fleet_size + second_fleet_size;
         int new_pirate_size = first_pirate_size + second_pirate_size;
@@ -195,9 +205,11 @@ public:
                 }
             }
 
-        m_sets.remove(first->get_id());
-        m_sets.remove(second->get_id());
+        m_sets.remove(fleetId1);
+        m_sets.remove(fleetId2);
         m_sets.insert(new Set(new_root,new_fleet_size,new_pirate_size));
+        
+        // m_sets.print();
     }
 
 //------------------------------------------------------------------------------------------
