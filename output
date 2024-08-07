@@ -105,7 +105,7 @@ add_pirate: SUCCESS
 unite_fleets: FAILURE
 num_ships_for_fleet: SUCCESS, 10
 get_pirate_money: INVALID_INPUT
-get_pirate_money: SUCCESS, 16
+get_pirate_money: SUCCESS, 27
 unite_fleets: SUCCESS
 add_fleet: FAILURE
 unite_fleets: SUCCESS

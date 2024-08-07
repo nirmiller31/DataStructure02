@@ -119,12 +119,12 @@ public:
 
         while (indexStatus[index] != Status::FREE) {                        // search from all that are not free
             if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
-                return table[index];                                         // if found
+                return table[index];                                        // if found
             }
             index = (index + step) % capacity;
         }
         static T defaultT;
-        return defaultT;                                                       // passed throw all potential,didnt found
+        return defaultT;                                                    // passed throw all potential,didnt found
     }
 
     int get_pirate_amount(int key){
@@ -133,11 +133,11 @@ public:
 
         while (indexStatus[index] != Status::FREE) {                        // search from all that are not free
             if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
-                return table[index]->get_pirate_size();                                   // if found
+                return table[index]->get_pirate_size();                     // if found
             }
             index = (index + step) % capacity;
         }
-        return 0;                                                       // passed throw all potential,didnt found
+        return 0;                                                           // passed throw all potential,didnt found
     }
 
     int get_fleet_size(int key){
@@ -145,11 +145,11 @@ public:
         int step = hash2(key);
         while (indexStatus[index] != Status::FREE) {                        // search from all that are not free
             if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
-                return table[index]->get_fleet_size();                                   // if found
+                return table[index]->get_fleet_size();                      // if found
             }
             index = (index + step) % capacity;
         }
-        return 0;                                                       // passed throw all potential,didnt found
+        return 0;                                                           // passed throw all potential,didnt found
     }
 
     int get_pirate_size(int key, int increasment){
@@ -158,18 +158,18 @@ public:
         while (indexStatus[index] != Status::FREE) {                        // search from all that are not free
             if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
                 table[index]->increase_pirate_size(increasment);
-                return table[index]->get_pirate_size();                                   // if found
+                return table[index]->get_pirate_size();                     // if found
             }
             index = (index + step) % capacity;
         }
-        return 0;                                                       // passed throw all potential,didnt found
+        return 0;                                                           // passed throw all potential,didnt found
     }
 
     void print() const {
         for (int i = 0; i < capacity; ++i) {
             if (indexStatus[i] == Status::TAKEN) {
-                // std::cout << "Index " << i << ": " << table[i]->get_id() << " (TAKEN), the fleet size is: " <<  table[i]->get_fleet_size() << ", the pirate amount is: " << table[i]->get_pirate_size() << std::endl;
-                std::cout << "Index " << i << ": " << table[i]->get_id()<< std::endl;           
+                std::cout << "Index " << i << ": " << table[i]->get_id() << " (TAKEN), the fleet size is: " <<  table[i]->get_fleet_size() << ", the pirate amount is: " << table[i]->get_pirate_size() << std::endl;
+                // std::cout << "Index " << i << ": " << table[i]->get_id()<< std::endl;           
             } else if (indexStatus[i] == Status::DELETED) {
                 std::cout << "Index " << i << ": DELETED" << std::endl;
             } else {

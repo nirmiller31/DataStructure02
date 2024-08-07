@@ -11,11 +11,11 @@ private:
 
     struct Set {
         T root;
-        int m_fleet_size; // Current status of the entry
+        int m_fleet_size;                                                                   // Current status of the entry
         int m_pirate_size;
         int m_rank;
-        Set() : root(T()), m_fleet_size(1), m_pirate_size(0), m_rank(0) {} // Initialize root with a default value and m_size to 0
-        Set(T t, int fleet_size, int pirate_size) : root(t), m_fleet_size(fleet_size), m_pirate_size(pirate_size), m_rank(0) {} // Correct initialization
+        Set() : root(T()), m_fleet_size(1), m_pirate_size(0), m_rank(0) {} 
+        Set(T t, int fleet_size, int pirate_size) : root(t), m_fleet_size(fleet_size), m_pirate_size(pirate_size), m_rank(0) {}
         int get_id(){
             return root->get_id();
         }
@@ -34,7 +34,6 @@ private:
         void increase_rank(){
             m_rank += 1;
         }
-        // void get_treasure(){}
     };
     
     HashTable<Set*> m_sets;
@@ -85,7 +84,6 @@ public:
         while (object->get_id() >= capacity) {
             resize();
         }
-        
         m_parent[object->get_id()] = nullptr;
         m_dynamic_rank[object->get_id()] = 0;
         m_sets.insert(new Set(object,1,0));
@@ -96,25 +94,25 @@ public:
         }
     }
 
-    void add_pirate(int id){
+    void add_pirate(int id){                                                        // Add a pirate to the system
         m_dynamic_rank[id]++;
     }
 
-    T find(int id) {
+    T find(int id) {                                                                // Give me and ID, ill give you it actual root, and maintain connection shortcut
         T root = find_root(id);
         if(root == m_data[id]){
             return root;
         }
         else{
             while (m_parent[id] != nullptr) {
-                m_parent[id] = root;
+                // m_parent[id] = root;
                 return find(m_parent[id]->get_id());
             }
         }
         return root;
     }
 
-    T find_root(int id) {
+    T find_root(int id) {                                                           // Give me an ID, ill give you its actual root
         T root = m_data[id];
         while (m_parent[id] != nullptr) {
             
@@ -123,15 +121,48 @@ public:
         return root;
     }
 
-    bool check_excist(int id){
+    T find_root_from_fleet(T& fleet) {                                              // Give me a fleet, ill give you its actual root (used in unite)
+        T root = fleet;
+        while (m_parent[fleet->get_id()] != nullptr) {
+            
+            return find_root(m_parent[fleet->get_id()]->get_id());
+        }
+        return root;
+    }
+
+    bool check_if_excist(int id){                                                   // Check if excist in database, if there was historical fleet id
         return (m_data[id] != nullptr);
     }
 
-    bool check_fleet_system(int id){
+    bool check_identifier_fleet(int id){                                            // Check if the identifier excist, if legit fleet
         return m_sets.search(id);
     }
 
-    void union_sets(T first, T second) {
+    int get_pirate_size(int id){                                                    // Gets the updated (by identifier) pirate size
+        return m_sets.get_pirate_amount(id);
+    }
+
+    int get_fleet_size(int id){                                                     // Gets the updated (by identifier) fleet size (number of unites)
+        return m_sets.get_fleet_size(id);
+    }
+
+    int get_pirate_amount_and_increase(int id, int increasment){                    // Gets the updated (by identifier) pirate size, and increase it by ##
+        return m_sets.get_pirate_size(id,increasment);
+    }
+
+    int get_rank(int id){                                                           // Get the fleet rank by moving up the upside tree
+        int result = m_dynamic_rank[id];
+        while (m_parent[id] != nullptr) {
+            result += get_rank(m_parent[id]->get_id());
+            return result;
+        }
+        return result;
+    }
+
+    void union_sets(T first_fleet, T second_fleet) {
+
+        T first = find_root_from_fleet(first_fleet);
+        T second = find_root_from_fleet(second_fleet);
 
         int first_fleet_size = m_sets.get(first->get_id())->get_fleet_size();
         int second_fleet_size = m_sets.get(second->get_id())->get_fleet_size();
@@ -146,47 +177,32 @@ public:
 
             if (first_fleet_size < second_fleet_size) {
                 m_parent[first->get_id()] = second;
-                (first_pirate_size >= second_pirate_size) ? m_dynamic_rank[second->get_id()] = first_pirate_size : m_dynamic_rank[first->get_id()] = second_pirate_size;
+                if(first_pirate_size >= second_pirate_size){                   //in case second is actual root, first is identifier root
+                    m_dynamic_rank[second->get_id()] -= second_pirate_size;
+                    m_dynamic_rank[first->get_id()] += first_pirate_size;
+                }
+                else{                                                          //in case second is both actual and identifier root
+                    m_dynamic_rank[first->get_id()] += second_pirate_size;
+                }
             } else {
                 m_parent[second->get_id()] = first;
-                (first_pirate_size >= second_pirate_size) ? m_dynamic_rank[second->get_id()] = first_pirate_size : m_dynamic_rank[first->get_id()] = second_pirate_size;
+                if(first_pirate_size >= second_pirate_size){                   //in case first is both actual and identifier root
+                    m_dynamic_rank[second->get_id()] += first_pirate_size;
+                }
+                else{                                                          //in case first is actual root, second is identifier root
+                    m_dynamic_rank[first->get_id()] -= first_pirate_size;
+                    m_dynamic_rank[second->get_id()] += second_pirate_size;
+                }
             }
-
 
         m_sets.remove(first->get_id());
         m_sets.remove(second->get_id());
         m_sets.insert(new Set(new_root,new_fleet_size,new_pirate_size));
     }
 
-    T get_data(int i) {
-        return m_data[find(i)];
-    }
-
-    int get_size() {
-        return m_total;
-    }
-
-    int get_pirate_size(int id){
-        // std::cout << "fleet " << id << "has" << m_sets.get_pirate_amount(id) << std::endl;
-        return m_sets.get_pirate_amount(id);
-    }
-
-    int get_fleet_size(int id){
-        return m_sets.get_fleet_size(id);
-    }
-
-    int get_pirate_amount(int id, int increasment){
-        return m_sets.get_pirate_size(id,increasment);
-    }
-
-    int get_capacity() {
-        return capacity;
-    }
-
-    int get_rank(int id){
-        return m_dynamic_rank[id];
-    }
-
+//------------------------------------------------------------------------------------------
+//----------------------------------print shit utilities------------------------------------
+//-----------------------------------remember to remove-------------------------------------
 
     void print_parent() {
         std::cout << "Elements in the parent: ";
@@ -230,6 +246,9 @@ public:
         m_sets.print();
     }
 
+
+//-------------------------------end ofprint shit utilities---------------------------------
+//------------------------------------------------------------------------------------------
     
 };
 

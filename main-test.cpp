@@ -29,7 +29,7 @@
 
 //     // ocean.add_pirate(2,3);
 
-//     // ocean.print_fleet();
+//     ocean.print_fleet();
 
     
 
