@@ -121,17 +121,10 @@ public:
         int index = hash1(key);
         int step = hash2(key);
 
-            // std::cout << "im inserting: " << key << std::endl;
+            
             // std::cout << "step: " << table[index]->get_id() << std::endl;
             // std::cout << "index: " << (indexStatus[index] == Status::DELETED) << std::endl;
 
-
-        if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
-            
-
-            
-            return table[index];                                        // if found
-        }
         while (indexStatus[index] != Status::FREE) {                        // search from all that are not free
             if (table[index]->get_id() == key && indexStatus[index] == Status::TAKEN) {   // if the key matches, and the place is taken
                 return table[index];                                        // if found
@@ -185,6 +178,18 @@ public:
             if (indexStatus[i] == Status::TAKEN) {
                 std::cout << "Index " << i << ": " << table[i]->get_id() << " (TAKEN), the fleet size is: " <<  table[i]->get_fleet_size() << ", the pirate amount is: " << table[i]->get_pirate_size() << std::endl;
                 // std::cout << "Index " << i << ": " << table[i]->get_id()<< std::endl;           
+            } else if (indexStatus[i] == Status::DELETED) {
+                std::cout << "Index " << i << ": DELETED" << std::endl;
+            } else {
+                std::cout << "Index " << i << ": FREE" << std::endl;
+            }
+        }
+    }
+
+    void print_pirates() const {
+        for (int i = 0; i < capacity; ++i) {
+            if (indexStatus[i] == Status::TAKEN) {
+                std::cout << "Index " << i << ": " << table[i]->get_id()<< "the inner rank: " << table[i]->get_rank() << " from fleet: " << table[i]->get_fleet() << std::endl;           
             } else if (indexStatus[i] == Status::DELETED) {
                 std::cout << "Index " << i << ": DELETED" << std::endl;
             } else {

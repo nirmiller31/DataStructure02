@@ -11,6 +11,7 @@ int Pirate::get_id()const{
 }
 
 int Pirate::get_fleet(){ 
+    // std::cout << "the original fleet is: " << m_original_fleet << std::endl;
     return m_original_fleet;
 }
 

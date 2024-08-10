@@ -14,6 +14,7 @@ private:
         int m_fleet_size;                                                                   // Current status of the entry
         int m_pirate_size;
         int m_rank;
+
         Set() : root(T()), m_fleet_size(1), m_pirate_size(0), m_rank(0) {} 
         Set(T t, int fleet_size, int pirate_size) : root(t), m_fleet_size(fleet_size), m_pirate_size(pirate_size), m_rank(0) {}
         int get_id(){
@@ -31,8 +32,8 @@ private:
         int get_rank(){
             return m_rank;
         }
-        void increase_rank(){
-            m_rank += 1;
+        T return_root(){
+            return root;
         }
     };
     
@@ -117,6 +118,7 @@ public:
 
     T find_root(int id) {                                                           // Give me an ID, ill give you its actual root
         T root = m_data[id];
+        // std::cout << "im looking: " << id << std::endl;
         while (m_parent[id] != nullptr) {
             
             return find_root(m_parent[id]->get_id());
@@ -133,7 +135,11 @@ public:
         return root;
     }
 
+
     bool check_if_excist(int id){                                                   // Check if excist in database, if there was historical fleet id
+        if(capacity < id){
+            return false;
+        }
         return (m_data[id] != nullptr);
     }
 
@@ -151,12 +157,14 @@ public:
     }
 
     int get_pirate_amount_and_increase(int id, int increasment){                    // Gets the updated (by identifier) pirate size, and increase it by ##
+        // std::cout << "im adding pirate:" << id << "the current rank is:" << m_sets.get_pirate_size(id,0) << std::endl;
         return m_sets.get_pirate_size(id,increasment);
     }
 
     int get_rank(int id){                                                           // Get the fleet rank by moving up the upside tree
         int result = m_dynamic_rank[id];
         while (m_parent[id] != nullptr) {
+            // std::cout << "im adding to:" << result << std::endl;
             result += get_rank(m_parent[id]->get_id());
             return result;
         }
@@ -183,25 +191,35 @@ public:
         int new_fleet_size = first_fleet_size + second_fleet_size;
         int new_pirate_size = first_pirate_size + second_pirate_size;
 
-        T new_root = (first_pirate_size >= second_pirate_size) ? first : second;
+        T new_root = (first_pirate_size >= second_pirate_size) ? m_sets.get(fleetId1)->return_root() : m_sets.get(fleetId2)->return_root();
 
             if (first_fleet_size < second_fleet_size) {
                 m_parent[first->get_id()] = second;
                 if(first_pirate_size >= second_pirate_size){                   //in case second is actual root, first is identifier root
-                    m_dynamic_rank[second->get_id()] -= second_pirate_size;
-                    m_dynamic_rank[first->get_id()] += first_pirate_size;
+                    m_dynamic_rank[second->get_id()] += first_pirate_size;
+                    m_dynamic_rank[first->get_id()] -= m_dynamic_rank[second->get_id()];
                 }
                 else{                                                          //in case second is both actual and identifier root
-                    m_dynamic_rank[first->get_id()] += second_pirate_size;
+                    m_dynamic_rank[first->get_id()] += (second_pirate_size-m_dynamic_rank[second->get_id()]);
                 }
-            } else {
+            } else if(first_fleet_size > second_fleet_size){
                 m_parent[second->get_id()] = first;
                 if(first_pirate_size >= second_pirate_size){                   //in case first is both actual and identifier root
-                    m_dynamic_rank[second->get_id()] += first_pirate_size;
+                    m_dynamic_rank[second->get_id()] += (first_pirate_size-m_dynamic_rank[first->get_id()]);
                 }
                 else{                                                          //in case first is actual root, second is identifier root
-                    m_dynamic_rank[first->get_id()] -= first_pirate_size;
-                    m_dynamic_rank[second->get_id()] += second_pirate_size;
+                    m_dynamic_rank[first->get_id()] += second_pirate_size;
+                    m_dynamic_rank[second->get_id()] -= m_dynamic_rank[first->get_id()];
+                }
+            }
+            else{
+                if(first_pirate_size >= second_pirate_size){
+                    m_parent[second->get_id()] = first;
+                    m_dynamic_rank[second->get_id()] += (first_pirate_size-m_dynamic_rank[first->get_id()]);
+                }
+                else{
+                    m_parent[first->get_id()] = second;
+                    m_dynamic_rank[first->get_id()] += (second_pirate_size-m_dynamic_rank[second->get_id()]);
                 }
             }
 
@@ -220,9 +238,9 @@ public:
         std::cout << "Elements in the parent: ";
         for (int i = 0; i < m_total; ++i) {
             if(m_parent[i] != nullptr)
-                std::cout << m_parent[i]->get_id() << " ";
+                std::cout << i << ":" << m_parent[i]->get_id() << " | ";
             else
-                std::cout << m_parent[i] << " ";                
+                std::cout << i << ":" << "00" << " | ";                
         }
         std::cout << std::endl;
     }
@@ -232,9 +250,9 @@ public:
         std::cout << "Elements in the data:   ";
         for (int i = 0; i < m_total; ++i) {
             if(m_data[i] != nullptr)
-                std::cout << m_data[i]->get_id() << " "; 
+                std::cout << i << ":" << m_data[i]->get_id() << " | "; 
             else
-                std::cout << m_data[i] << " ";                
+                std::cout << i << ":" <<  "00" << " | ";                
         }
         std::cout << std::endl;
     }
@@ -243,9 +261,9 @@ public:
         std::cout << "Elements in the rank:   ";
         for (int i = 0; i < m_total; ++i) {
             if(m_dynamic_rank[i] != 0)
-                std::cout << m_dynamic_rank[i] << " "; 
+                std::cout << i << ":" << m_dynamic_rank[i] << " | "; 
             else
-                std::cout << m_dynamic_rank[i] << " ";                
+                std::cout << i << ":" <<  m_dynamic_rank[i] << " | ";                
         }
         std::cout << std::endl;
     }
