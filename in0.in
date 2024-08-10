@@ -1,0 +1,5000 @@
+pirate_argument 2 9
+unite_fleets 1 9
+get_pirate_money 9
+pirate_argument 7 -1
+add_pirate 10 2
+pay_pirate 3 70
+add_fleet 2
+add_pirate 5 4
+add_fleet 5
+pay_pirate 6 43
+pay_pirate 8 84
+num_ships_for_fleet 9
+pirate_argument 8 10
+pay_pirate 4 77
+get_pirate_money 3
+unite_fleets 8 0
+pirate_argument 7 -2
+add_pirate -2 7
+add_fleet 5
+add_pirate 3 -2
+unite_fleets 7 0
+pirate_argument 7 7
+pirate_argument -1 9
+pirate_argument 4 2
+pay_pirate 5 93
+add_fleet -1
+add_pirate 5 0
+unite_fleets -2 3
+add_fleet 9
+add_fleet 4
+unite_fleets 1 10
+add_fleet 7
+add_fleet 10
+unite_fleets 0 0
+pirate_argument -2 8
+pirate_argument -1 -1
+add_pirate 0 0
+pirate_argument 8 0
+get_pirate_money 2
+pirate_argument 3 -1
+add_pirate 6 8
+unite_fleets 5 6
+add_pirate 6 7
+pay_pirate 3 44
+add_fleet -2
+pay_pirate 6 13
+add_fleet 7
+get_pirate_money 0
+add_pirate 9 1
+add_fleet 10
+add_pirate 2 0
+add_fleet 1
+add_fleet 10
+get_pirate_money 4
+add_fleet 10
+pirate_argument 9 3
+add_pirate -2 3
+add_fleet 6
+add_pirate -1 5
+num_ships_for_fleet 0
+pirate_argument 8 7
+unite_fleets 7 -2
+unite_fleets 3 3
+add_pirate 8 2
+add_pirate 1 1
+num_ships_for_fleet 8
+num_ships_for_fleet 9
+num_ships_for_fleet 8
+pirate_argument 0 9
+pirate_argument 6 -1
+get_pirate_money 4
+unite_fleets -1 7
+add_fleet 5
+unite_fleets 4 5
+add_fleet 2
+unite_fleets 6 -2
+num_ships_for_fleet -2
+add_fleet -2
+num_ships_for_fleet 1
+pay_pirate -1 40
+unite_fleets 6 2
+add_pirate -2 9
+get_pirate_money 1
+pay_pirate 8 87
+unite_fleets 2 4
+pirate_argument 8 -1
+add_pirate 10 -1
+num_ships_for_fleet 9
+pirate_argument 1 -2
+get_pirate_money 10
+get_pirate_money 4
+get_pirate_money 1
+add_fleet -2
+add_fleet -2
+pirate_argument -1 7
+unite_fleets 6 -1
+unite_fleets 2 1
+add_pirate 6 0
+add_pirate 10 8
+pay_pirate 3 66
+add_fleet 8
+add_pirate 1 8
+unite_fleets 1 4
+unite_fleets -2 -2
+num_ships_for_fleet 9
+get_pirate_money 9
+pirate_argument 7 1
+add_pirate 6 5
+add_pirate 8 4
+pirate_argument 7 4
+add_pirate 8 -2
+pay_pirate 8 71
+unite_fleets 2 6
+add_fleet 8
+get_pirate_money 10
+pay_pirate 10 75
+get_pirate_money 9
+pirate_argument 6 8
+pay_pirate 5 56
+pirate_argument 2 6
+add_fleet -1
+unite_fleets 10 9
+pirate_argument 6 6
+num_ships_for_fleet -1
+add_fleet 0
+get_pirate_money 7
+unite_fleets 5 0
+add_pirate 3 7
+add_fleet 3
+pirate_argument 7 4
+get_pirate_money -1
+num_ships_for_fleet 4
+num_ships_for_fleet 7
+pirate_argument 4 4
+add_pirate 7 5
+get_pirate_money -2
+num_ships_for_fleet 3
+add_fleet 2
+unite_fleets 7 7
+pirate_argument 4 0
+pirate_argument 6 7
+unite_fleets 7 1
+add_pirate -2 10
+num_ships_for_fleet 10
+add_pirate 1 5
+add_pirate 2 9
+get_pirate_money 7
+pay_pirate 6 29
+get_pirate_money 9
+pay_pirate 4 -2
+add_pirate 7 8
+unite_fleets 2 9
+num_ships_for_fleet 10
+add_pirate 9 8
+pay_pirate 2 12
+add_fleet 0
+num_ships_for_fleet 1
+pirate_argument 10 4
+add_pirate -2 5
+unite_fleets 2 4
+pirate_argument 5 9
+num_ships_for_fleet 6
+pay_pirate 1 32
+num_ships_for_fleet 8
+add_pirate 0 3
+add_pirate 7 8
+pirate_argument -1 1
+add_fleet 2
+num_ships_for_fleet 2
+pirate_argument 3 9
+pirate_argument 0 10
+num_ships_for_fleet 6
+add_fleet 6
+pay_pirate 10 44
+add_pirate 8 -1
+num_ships_for_fleet 6
+add_fleet 5
+unite_fleets 1 10
+pay_pirate 7 85
+pay_pirate 9 8
+pay_pirate 2 37
+num_ships_for_fleet 5
+pay_pirate 4 74
+pay_pirate 10 40
+pay_pirate -1 82
+unite_fleets -2 1
+pay_pirate 8 19
+add_pirate 9 2
+add_fleet 5
+add_pirate 10 8
+add_fleet -2
+add_fleet 9
+unite_fleets 4 2
+unite_fleets 3 8
+add_pirate 10 1
+add_pirate 0 5
+get_pirate_money 4
+pay_pirate 4 62
+pay_pirate 10 43
+pay_pirate 2 88
+pay_pirate 4 96
+pirate_argument 4 10
+pirate_argument 0 5
+add_pirate 10 -2
+get_pirate_money 6
+num_ships_for_fleet 8
+get_pirate_money 3
+pirate_argument 2 10
+pirate_argument 7 -2
+get_pirate_money 5
+add_fleet 2
+add_pirate 2 6
+add_pirate 7 -1
+pay_pirate 10 20
+pirate_argument 8 10
+unite_fleets 10 8
+add_fleet 1
+add_fleet 5
+get_pirate_money 1
+num_ships_for_fleet -2
+add_pirate 1 4
+num_ships_for_fleet 0
+get_pirate_money 10
+get_pirate_money 9
+unite_fleets -2 0
+add_fleet 0
+pirate_argument 1 7
+add_pirate 0 5
+num_ships_for_fleet 5
+num_ships_for_fleet 7
+unite_fleets 4 10
+pirate_argument 8 3
+add_fleet 0
+pirate_argument 0 1
+get_pirate_money 6
+get_pirate_money 9
+get_pirate_money 8
+unite_fleets 3 4
+add_pirate 3 0
+add_fleet 0
+add_pirate 7 10
+get_pirate_money 7
+num_ships_for_fleet 9
+num_ships_for_fleet 0
+num_ships_for_fleet -2
+add_pirate 2 1
+num_ships_for_fleet 7
+add_pirate 7 5
+add_pirate 1 10
+add_fleet 5
+unite_fleets 9 3
+get_pirate_money -2
+num_ships_for_fleet 7
+num_ships_for_fleet 8
+add_fleet 9
+num_ships_for_fleet 8
+num_ships_for_fleet 7
+add_fleet 10
+unite_fleets 0 8
+pirate_argument 0 4
+unite_fleets 9 6
+add_pirate -1 -2
+add_fleet 2
+pirate_argument 2 0
+pirate_argument 8 2
+add_fleet 9
+pay_pirate -2 66
+pirate_argument -1 2
+add_fleet 5
+num_ships_for_fleet 2
+get_pirate_money 7
+get_pirate_money -1
+unite_fleets 3 7
+pirate_argument 7 1
+pirate_argument -2 9
+add_fleet 1
+pay_pirate -1 70
+pirate_argument 6 9
+unite_fleets 10 8
+num_ships_for_fleet 6
+num_ships_for_fleet -1
+pirate_argument 9 10
+add_pirate -2 7
+pirate_argument 2 5
+add_fleet 10
+pay_pirate 6 56
+unite_fleets 2 2
+num_ships_for_fleet 1
+add_pirate 3 4
+pay_pirate 1 36
+add_pirate 7 3
+get_pirate_money 9
+add_fleet 8
+pay_pirate 3 76
+get_pirate_money 4
+add_pirate 1 -1
+add_pirate -1 6
+add_fleet 6
+num_ships_for_fleet 5
+num_ships_for_fleet 8
+unite_fleets -2 6
+get_pirate_money -1
+add_fleet 6
+add_fleet 0
+add_pirate -1 0
+num_ships_for_fleet 4
+add_pirate 10 0
+pay_pirate 0 40
+add_pirate 2 3
+pay_pirate 2 21
+add_fleet -1
+add_fleet 1
+unite_fleets 2 2
+pirate_argument 6 6
+unite_fleets 10 2
+pay_pirate 9 65
+add_pirate 2 1
+pirate_argument 7 6
+unite_fleets 1 9
+pay_pirate 0 5
+unite_fleets 1 -1
+num_ships_for_fleet 3
+pay_pirate 3 -1
+pay_pirate 1 46
+pirate_argument 1 -1
+pay_pirate 3 22
+pirate_argument 3 7
+unite_fleets 2 -2
+add_pirate 5 3
+pirate_argument 1 7
+add_fleet 8
+unite_fleets 2 0
+pirate_argument 7 6
+add_pirate -2 4
+add_pirate 9 1
+add_fleet 5
+get_pirate_money 9
+pay_pirate 4 5
+pay_pirate 1 6
+add_pirate -2 7
+unite_fleets 9 10
+pay_pirate -2 41
+get_pirate_money 1
+pay_pirate 9 79
+add_fleet 9
+add_fleet 10
+get_pirate_money 7
+add_pirate 6 5
+add_pirate 5 9
+add_fleet 4
+pirate_argument -1 1
+add_pirate 0 -2
+num_ships_for_fleet -1
+pirate_argument 9 9
+add_pirate 1 0
+num_ships_for_fleet 2
+pirate_argument 10 2
+pay_pirate 6 2
+unite_fleets 1 9
+add_pirate -1 -2
+pay_pirate 2 49
+pay_pirate -1 27
+pirate_argument 7 1
+add_pirate -2 7
+add_fleet 3
+add_fleet 1
+add_pirate 6 1
+pay_pirate 8 63
+pay_pirate 3 4
+add_pirate 1 -2
+pay_pirate 3 54
+get_pirate_money 5
+get_pirate_money 6
+get_pirate_money 6
+get_pirate_money 10
+pay_pirate 2 1
+add_pirate 4 0
+add_fleet 2
+add_pirate 6 10
+add_pirate 5 3
+num_ships_for_fleet 7
+pay_pirate 1 48
+add_fleet 3
+unite_fleets 7 3
+get_pirate_money 5
+num_ships_for_fleet 9
+add_fleet 1
+num_ships_for_fleet 10
+pirate_argument -2 2
+get_pirate_money 0
+num_ships_for_fleet 6
+get_pirate_money 8
+num_ships_for_fleet -1
+pay_pirate 6 16
+add_fleet 1
+num_ships_for_fleet -2
+pay_pirate -2 84
+get_pirate_money 7
+get_pirate_money 3
+num_ships_for_fleet 0
+get_pirate_money -1
+add_pirate 7 2
+pay_pirate -2 92
+add_fleet 0
+num_ships_for_fleet 3
+unite_fleets 9 2
+get_pirate_money 2
+pirate_argument 5 8
+num_ships_for_fleet 5
+unite_fleets 1 -2
+get_pirate_money 5
+get_pirate_money 7
+pirate_argument 3 9
+unite_fleets 7 3
+num_ships_for_fleet 6
+unite_fleets 9 -2
+get_pirate_money 9
+add_fleet 0
+pay_pirate 6 23
+add_pirate 5 6
+unite_fleets 8 4
+add_pirate 3 0
+add_pirate 1 7
+get_pirate_money 8
+pirate_argument 8 8
+pay_pirate 2 35
+add_fleet -1
+pay_pirate -2 63
+add_fleet 9
+pirate_argument 8 5
+num_ships_for_fleet -1
+unite_fleets 4 10
+add_pirate 8 6
+num_ships_for_fleet 8
+unite_fleets 8 -1
+unite_fleets 4 4
+unite_fleets -2 4
+get_pirate_money 4
+pirate_argument 10 0
+add_pirate 2 6
+pirate_argument 0 1
+add_pirate 7 -2
+pay_pirate -2 64
+add_fleet 8
+unite_fleets 8 6
+unite_fleets 3 8
+pay_pirate 3 -1
+add_fleet 6
+get_pirate_money 6
+unite_fleets 0 7
+add_pirate 3 2
+pay_pirate 7 57
+pay_pirate 9 45
+add_fleet 0
+pirate_argument 2 -2
+get_pirate_money 9
+pirate_argument 0 10
+pay_pirate 7 81
+num_ships_for_fleet 5
+pirate_argument 6 9
+get_pirate_money 0
+unite_fleets -2 -2
+add_pirate 7 4
+add_pirate 9 6
+pay_pirate 3 88
+add_pirate 7 -1
+num_ships_for_fleet 8
+pirate_argument -2 0
+pirate_argument 10 8
+add_pirate 3 9
+add_fleet 4
+num_ships_for_fleet -2
+pirate_argument 6 1
+add_pirate 8 3
+add_pirate -1 1
+get_pirate_money 7
+unite_fleets 7 0
+pay_pirate 2 77
+get_pirate_money 5
+pay_pirate -2 38
+add_fleet 0
+pay_pirate 3 37
+get_pirate_money -1
+unite_fleets 5 0
+num_ships_for_fleet 9
+num_ships_for_fleet 7
+pirate_argument 9 -1
+add_pirate 8 -1
+add_pirate 7 9
+num_ships_for_fleet 5
+num_ships_for_fleet 6
+add_fleet 10
+add_pirate -2 6
+pirate_argument 1 2
+pirate_argument 1 8
+num_ships_for_fleet 7
+pirate_argument 10 8
+pirate_argument -1 9
+add_pirate 10 4
+add_fleet -2
+add_pirate 2 6
+pirate_argument -1 -2
+add_pirate 7 9
+add_fleet 4
+add_fleet 2
+add_pirate 2 0
+pirate_argument 9 -2
+add_fleet 10
+pay_pirate -2 92
+unite_fleets 0 -1
+get_pirate_money 5
+pay_pirate 8 45
+pay_pirate -1 69
+pirate_argument 10 0
+get_pirate_money 9
+num_ships_for_fleet 10
+pay_pirate 5 49
+pirate_argument -1 7
+add_fleet 10
+add_pirate 8 10
+pirate_argument 5 5
+add_fleet -1
+pirate_argument 10 9
+get_pirate_money -2
+get_pirate_money 1
+unite_fleets 3 3
+num_ships_for_fleet 5
+pirate_argument 4 2
+get_pirate_money 3
+add_pirate 1 8
+get_pirate_money 2
+pirate_argument -1 5
+pirate_argument 2 -1
+pay_pirate -2 48
+add_pirate 10 0
+num_ships_for_fleet -1
+num_ships_for_fleet 0
+get_pirate_money -1
+unite_fleets 6 3
+unite_fleets -1 4
+unite_fleets 3 1
+unite_fleets 5 3
+get_pirate_money -2
+pirate_argument -2 -1
+add_fleet -1
+add_pirate -2 9
+add_pirate 2 4
+add_fleet 2
+num_ships_for_fleet -2
+unite_fleets -2 9
+add_pirate 3 1
+add_pirate 0 -2
+add_pirate 10 0
+num_ships_for_fleet 7
+add_pirate 10 4
+unite_fleets 1 7
+pirate_argument 9 5
+add_pirate 5 -1
+unite_fleets 5 2
+pay_pirate 0 72
+pay_pirate -2 99
+num_ships_for_fleet 3
+pirate_argument -1 2
+num_ships_for_fleet 9
+add_pirate 2 5
+unite_fleets 8 5
+pirate_argument 2 1
+num_ships_for_fleet 2
+get_pirate_money 4
+unite_fleets 5 8
+add_fleet 0
+add_pirate 2 4
+num_ships_for_fleet 3
+pirate_argument -1 5
+add_pirate -2 0
+num_ships_for_fleet 8
+pay_pirate 0 21
+get_pirate_money -2
+num_ships_for_fleet 9
+add_fleet 5
+add_pirate 9 9
+unite_fleets 2 -1
+add_fleet 8
+pay_pirate 7 90
+add_fleet 8
+pay_pirate 10 16
+unite_fleets -2 0
+get_pirate_money 10
+add_pirate 10 -1
+add_pirate -1 -2
+pay_pirate 8 9
+pay_pirate 10 86
+num_ships_for_fleet 3
+pirate_argument 7 5
+unite_fleets 2 7
+num_ships_for_fleet 7
+num_ships_for_fleet 3
+unite_fleets 1 10
+add_pirate 0 1
+add_fleet 9
+add_fleet 2
+pirate_argument 10 9
+get_pirate_money 1
+num_ships_for_fleet 6
+unite_fleets 6 0
+unite_fleets 6 2
+add_pirate -2 -2
+pirate_argument 0 5
+num_ships_for_fleet 5
+pirate_argument 2 1
+num_ships_for_fleet 8
+unite_fleets 1 8
+pay_pirate -2 17
+pay_pirate 3 67
+unite_fleets 9 0
+pirate_argument -2 7
+pay_pirate 3 33
+add_fleet 0
+unite_fleets 8 1
+add_fleet 0
+num_ships_for_fleet 2
+add_fleet -2
+get_pirate_money 5
+num_ships_for_fleet 8
+add_fleet 5
+pay_pirate 1 70
+get_pirate_money 7
+add_fleet 2
+unite_fleets 6 -2
+num_ships_for_fleet 1
+add_pirate 4 2
+pirate_argument 3 -2
+add_fleet 5
+add_fleet 10
+unite_fleets -1 6
+unite_fleets 0 3
+pirate_argument 9 5
+pay_pirate 5 89
+get_pirate_money 7
+get_pirate_money 9
+add_pirate 5 1
+unite_fleets 4 9
+num_ships_for_fleet 7
+pay_pirate 4 21
+add_fleet 8
+add_fleet 9
+get_pirate_money 7
+num_ships_for_fleet 9
+add_pirate 10 9
+pirate_argument 6 2
+unite_fleets 10 5
+add_pirate 2 -1
+add_pirate 2 8
+add_fleet 3
+pay_pirate 5 74
+pirate_argument 10 8
+pirate_argument 6 -1
+add_fleet -2
+pay_pirate 2 41
+add_pirate 3 3
+get_pirate_money 5
+add_fleet 9
+pirate_argument -2 9
+get_pirate_money 2
+num_ships_for_fleet 4
+add_fleet 2
+get_pirate_money 0
+pirate_argument 0 5
+add_fleet 8
+pay_pirate 10 79
+pirate_argument -1 8
+pirate_argument 4 8
+add_fleet -2
+add_fleet 7
+unite_fleets 10 0
+unite_fleets 7 1
+num_ships_for_fleet 2
+unite_fleets 3 6
+add_pirate 4 10
+add_pirate 3 7
+pirate_argument 6 10
+pirate_argument 5 5
+add_fleet 3
+num_ships_for_fleet 6
+get_pirate_money 3
+pay_pirate 0 81
+unite_fleets 2 4
+get_pirate_money 3
+unite_fleets 1 7
+add_fleet 9
+unite_fleets 0 1
+unite_fleets 1 8
+add_pirate 9 0
+get_pirate_money 5
+add_fleet -2
+pirate_argument 4 4
+pay_pirate 9 57
+pay_pirate 1 16
+get_pirate_money 10
+unite_fleets 3 9
+add_pirate 0 9
+add_pirate 2 3
+add_pirate 7 7
+add_pirate 2 3
+get_pirate_money 5
+add_fleet 6
+add_fleet 4
+pirate_argument 4 0
+pirate_argument 5 1
+pay_pirate 1 80
+pirate_argument 10 3
+get_pirate_money 7
+add_fleet 1
+add_pirate -1 1
+add_pirate 4 -2
+pirate_argument 1 3
+pirate_argument 0 3
+unite_fleets 7 8
+add_pirate 4 8
+add_fleet 7
+pay_pirate 5 2
+unite_fleets 4 5
+add_pirate 6 8
+add_pirate 3 4
+pay_pirate -1 43
+pirate_argument 7 3
+unite_fleets 0 1
+add_fleet 6
+num_ships_for_fleet 5
+pay_pirate 8 70
+unite_fleets 2 7
+get_pirate_money 7
+pirate_argument 2 -1
+pay_pirate 6 41
+add_pirate 3 1
+num_ships_for_fleet 7
+unite_fleets 10 0
+add_pirate 5 1
+unite_fleets 5 10
+pay_pirate 10 68
+pirate_argument 2 4
+pay_pirate 1 48
+pay_pirate -1 100
+unite_fleets 6 8
+unite_fleets 2 -2
+add_fleet 3
+pay_pirate 5 75
+unite_fleets 0 3
+get_pirate_money 2
+num_ships_for_fleet 3
+pirate_argument 6 3
+add_fleet 5
+pay_pirate 3 11
+num_ships_for_fleet 2
+unite_fleets 7 5
+pirate_argument 4 7
+add_fleet 2
+unite_fleets 10 1
+add_pirate 0 0
+pirate_argument 6 7
+get_pirate_money 3
+add_pirate 8 8
+get_pirate_money 2
+pay_pirate 7 16
+pirate_argument 2 6
+add_pirate 2 8
+pay_pirate 6 50
+pay_pirate 7 14
+add_pirate 4 2
+pay_pirate -2 12
+add_pirate -2 2
+num_ships_for_fleet 10
+pirate_argument 6 0
+get_pirate_money 7
+add_fleet 5
+get_pirate_money 2
+pirate_argument 4 -1
+add_fleet 5
+pirate_argument 1 -1
+get_pirate_money 8
+add_pirate -2 -1
+pay_pirate 7 88
+num_ships_for_fleet 4
+pirate_argument 2 3
+add_pirate 10 -1
+pay_pirate 10 43
+add_pirate 1 9
+pay_pirate 9 15
+unite_fleets -1 1
+add_pirate 4 8
+pay_pirate 8 50
+get_pirate_money 9
+unite_fleets 1 9
+add_pirate 10 6
+add_fleet 7
+add_pirate 8 -1
+add_fleet -1
+add_fleet 0
+pay_pirate 7 72
+unite_fleets 3 -1
+add_fleet 0
+add_pirate 3 2
+add_pirate 2 3
+unite_fleets -1 8
+get_pirate_money 7
+pirate_argument -2 6
+add_pirate 1 -1
+add_fleet 5
+get_pirate_money 1
+pay_pirate 7 64
+unite_fleets 0 6
+pirate_argument 3 4
+num_ships_for_fleet 1
+pirate_argument 1 -1
+num_ships_for_fleet 1
+num_ships_for_fleet 4
+pay_pirate 9 11
+unite_fleets 4 2
+pirate_argument 4 3
+unite_fleets -1 3
+add_fleet 9
+add_pirate 10 4
+get_pirate_money 3
+pay_pirate 5 44
+pay_pirate 6 23
+add_pirate 9 10
+pay_pirate 7 47
+num_ships_for_fleet 6
+pay_pirate -2 7
+pirate_argument 8 7
+num_ships_for_fleet 4
+num_ships_for_fleet 2
+get_pirate_money 8
+unite_fleets 8 9
+add_pirate 6 4
+add_pirate 10 3
+pirate_argument 2 7
+unite_fleets 6 8
+get_pirate_money 5
+add_fleet 10
+unite_fleets -1 10
+pirate_argument 10 8
+add_fleet 2
+add_fleet 10
+unite_fleets 1 8
+add_pirate 10 4
+get_pirate_money 9
+pay_pirate -1 73
+unite_fleets 3 -1
+add_pirate 0 0
+pay_pirate 0 21
+get_pirate_money 10
+num_ships_for_fleet -2
+get_pirate_money 5
+unite_fleets -1 10
+get_pirate_money -1
+pay_pirate 4 50
+num_ships_for_fleet 1
+pay_pirate 1 47
+add_pirate 8 1
+get_pirate_money 2
+pirate_argument 10 3
+add_pirate 8 5
+pirate_argument 0 1
+add_pirate 6 -1
+unite_fleets 0 0
+pay_pirate 7 50
+unite_fleets 4 2
+pirate_argument 0 10
+pay_pirate 5 39
+add_pirate 8 0
+num_ships_for_fleet 7
+unite_fleets 3 9
+pay_pirate 6 11
+pay_pirate 4 80
+unite_fleets -2 9
+pay_pirate -2 81
+num_ships_for_fleet 10
+pirate_argument 4 9
+pirate_argument 0 3
+add_fleet 2
+add_pirate 10 3
+pirate_argument 0 2
+add_fleet 7
+pay_pirate 0 45
+unite_fleets 6 5
+get_pirate_money 0
+add_pirate 7 1
+pay_pirate 2 6
+add_fleet 5
+get_pirate_money -2
+add_pirate 6 2
+pirate_argument 6 5
+get_pirate_money 1
+add_pirate 8 0
+unite_fleets 1 3
+get_pirate_money 1
+pay_pirate 5 25
+get_pirate_money 0
+pay_pirate 9 48
+num_ships_for_fleet 4
+pirate_argument 9 -1
+add_fleet -1
+unite_fleets -2 4
+get_pirate_money 4
+pirate_argument 10 8
+pirate_argument 6 3
+pirate_argument 1 4
+add_pirate 2 4
+add_fleet 2
+get_pirate_money 5
+get_pirate_money 0
+get_pirate_money 9
+pirate_argument 10 -1
+num_ships_for_fleet 6
+add_fleet 7
+pay_pirate 1 17
+add_fleet 5
+num_ships_for_fleet 9
+add_fleet 8
+get_pirate_money 1
+num_ships_for_fleet 7
+pay_pirate -1 70
+unite_fleets -1 10
+num_ships_for_fleet -1
+add_pirate 9 3
+pay_pirate 9 100
+pirate_argument 1 8
+get_pirate_money -2
+unite_fleets -1 1
+get_pirate_money 6
+add_pirate 5 0
+pirate_argument 0 5
+pirate_argument 6 4
+get_pirate_money 3
+num_ships_for_fleet 5
+unite_fleets 10 -2
+add_pirate 2 2
+unite_fleets 7 9
+unite_fleets 6 -1
+pay_pirate 2 15
+unite_fleets 8 -2
+pay_pirate 5 83
+add_fleet 5
+pirate_argument 8 6
+add_fleet -1
+add_fleet 10
+num_ships_for_fleet 8
+add_fleet 5
+add_pirate 4 1
+unite_fleets 10 -1
+unite_fleets 2 1
+unite_fleets 9 9
+add_pirate -1 10
+add_fleet 8
+unite_fleets 0 3
+pirate_argument 3 8
+pay_pirate -2 1
+unite_fleets -1 8
+add_pirate 6 9
+get_pirate_money 10
+add_pirate 5 2
+add_pirate 3 6
+num_ships_for_fleet 3
+add_pirate 1 3
+add_pirate 0 6
+pirate_argument 8 5
+num_ships_for_fleet 3
+add_fleet 6
+pay_pirate 6 53
+get_pirate_money 9
+num_ships_for_fleet 3
+unite_fleets -1 7
+unite_fleets 2 4
+add_fleet -2
+unite_fleets 8 1
+get_pirate_money 10
+pay_pirate 10 33
+pay_pirate -1 1
+pirate_argument 10 7
+pay_pirate -1 10
+get_pirate_money 7
+get_pirate_money 5
+unite_fleets 2 -1
+add_pirate 0 0
+unite_fleets 7 10
+unite_fleets 1 3
+num_ships_for_fleet 8
+pirate_argument -1 -2
+pirate_argument 1 6
+unite_fleets 4 1
+get_pirate_money 5
+num_ships_for_fleet 0
+add_fleet 4
+add_pirate 1 10
+get_pirate_money 5
+pirate_argument 3 3
+pirate_argument 7 -1
+get_pirate_money 6
+add_fleet 3
+add_fleet 10
+num_ships_for_fleet 4
+add_pirate 1 9
+unite_fleets 4 8
+pirate_argument 10 9
+add_pirate 0 9
+unite_fleets 2 8
+pay_pirate 1 36
+num_ships_for_fleet 5
+pirate_argument -1 4
+num_ships_for_fleet 8
+pirate_argument 7 5
+pirate_argument 4 7
+add_fleet 10
+add_fleet 10
+pirate_argument 7 -2
+get_pirate_money 7
+unite_fleets 3 10
+add_pirate 0 3
+unite_fleets 10 9
+pirate_argument -1 5
+pay_pirate -2 98
+unite_fleets 2 -2
+unite_fleets -2 2
+add_fleet 0
+unite_fleets 7 6
+pay_pirate 8 84
+unite_fleets 6 5
+pirate_argument 2 5
+pay_pirate 4 7
+unite_fleets 1 8
+pay_pirate -2 21
+pirate_argument -1 -2
+pay_pirate -1 62
+get_pirate_money 6
+pirate_argument 1 5
+pay_pirate 8 50
+pirate_argument -2 3
+num_ships_for_fleet 6
+pirate_argument 10 -1
+pirate_argument 8 3
+add_pirate -2 10
+get_pirate_money 1
+add_fleet 9
+pirate_argument -2 8
+unite_fleets 8 6
+pirate_argument 5 -1
+add_pirate 1 -1
+pay_pirate 1 80
+pirate_argument -2 2
+add_pirate 10 -1
+add_fleet 8
+num_ships_for_fleet 4
+add_pirate 9 -1
+pay_pirate -2 62
+num_ships_for_fleet 6
+unite_fleets 5 -2
+pay_pirate -1 59
+get_pirate_money -2
+add_fleet 4
+unite_fleets 1 10
+pay_pirate 0 44
+add_pirate 6 9
+unite_fleets 9 5
+num_ships_for_fleet 4
+pay_pirate 7 34
+pay_pirate 6 13
+add_fleet 3
+add_fleet 10
+get_pirate_money 8
+num_ships_for_fleet 7
+get_pirate_money 0
+unite_fleets 3 5
+add_fleet 2
+add_pirate 2 -2
+get_pirate_money 5
+get_pirate_money 4
+pay_pirate 4 71
+pirate_argument -1 2
+add_fleet -1
+unite_fleets 7 -2
+add_fleet 8
+num_ships_for_fleet 0
+pay_pirate -2 38
+pirate_argument 1 3
+pay_pirate 5 79
+pay_pirate 2 32
+add_pirate 5 0
+add_fleet 3
+unite_fleets -2 7
+pay_pirate 1 65
+get_pirate_money 7
+add_pirate 7 10
+num_ships_for_fleet 10
+num_ships_for_fleet 9
+add_pirate 10 3
+pay_pirate 4 2
+pay_pirate 5 10
+add_fleet 2
+get_pirate_money 1
+get_pirate_money -2
+unite_fleets 10 6
+pay_pirate -2 22
+get_pirate_money 8
+num_ships_for_fleet 2
+pay_pirate -2 55
+add_fleet 3
+pay_pirate 4 -2
+add_pirate 4 -1
+get_pirate_money 10
+num_ships_for_fleet 7
+unite_fleets 3 3
+add_fleet 7
+add_fleet 0
+add_fleet -1
+get_pirate_money -2
+add_pirate -1 5
+num_ships_for_fleet 10
+unite_fleets -2 -2
+add_fleet 9
+get_pirate_money 5
+num_ships_for_fleet -2
+pay_pirate -1 75
+add_pirate -1 0
+get_pirate_money 7
+add_pirate 9 7
+unite_fleets 8 5
+unite_fleets 8 -1
+pirate_argument -1 4
+num_ships_for_fleet 0
+unite_fleets -1 3
+pay_pirate 10 93
+pay_pirate 4 68
+pay_pirate 3 74
+get_pirate_money 1
+unite_fleets -1 3
+pirate_argument 1 0
+unite_fleets -2 5
+unite_fleets 5 5
+unite_fleets 10 6
+add_pirate 1 1
+add_pirate 1 2
+pirate_argument -2 9
+add_fleet 1
+unite_fleets 7 0
+num_ships_for_fleet 1
+pirate_argument 6 3
+pirate_argument 1 0
+num_ships_for_fleet 7
+get_pirate_money 8
+num_ships_for_fleet 8
+num_ships_for_fleet 0
+add_pirate 3 1
+pay_pirate 9 40
+pirate_argument -1 7
+get_pirate_money 5
+add_fleet 0
+pirate_argument 4 -2
+pirate_argument 3 8
+unite_fleets 4 1
+unite_fleets -1 3
+add_pirate 7 9
+add_fleet 3
+add_pirate 3 6
+pay_pirate 3 24
+get_pirate_money 3
+add_fleet -1
+add_fleet 7
+add_fleet -1
+unite_fleets 10 5
+num_ships_for_fleet 0
+unite_fleets 2 10
+unite_fleets 9 -1
+add_pirate -2 0
+pirate_argument 9 9
+unite_fleets 2 0
+num_ships_for_fleet 5
+add_pirate 0 9
+pirate_argument 4 1
+pay_pirate 9 83
+unite_fleets 3 1
+unite_fleets 8 6
+pay_pirate 1 47
+add_pirate 2 7
+add_fleet 1
+pirate_argument 10 6
+pay_pirate 8 36
+num_ships_for_fleet 3
+unite_fleets 3 8
+num_ships_for_fleet 3
+num_ships_for_fleet 4
+add_fleet 10
+num_ships_for_fleet 6
+get_pirate_money 10
+pirate_argument 5 1
+num_ships_for_fleet -2
+add_pirate 7 10
+num_ships_for_fleet 8
+num_ships_for_fleet 6
+add_fleet -1
+num_ships_for_fleet 3
+num_ships_for_fleet 7
+add_pirate 4 0
+unite_fleets -2 9
+add_pirate -1 7
+pirate_argument 9 9
+unite_fleets 0 1
+unite_fleets 2 7
+get_pirate_money 4
+add_fleet 10
+get_pirate_money 5
+num_ships_for_fleet 10
+pay_pirate 1 61
+pay_pirate 2 98
+num_ships_for_fleet 6
+get_pirate_money 4
+add_pirate 0 8
+unite_fleets 3 9
+pirate_argument -1 4
+pay_pirate 6 6
+pirate_argument 10 9
+add_fleet -1
+pay_pirate 8 47
+add_fleet 8
+pay_pirate 0 30
+pirate_argument 2 6
+add_fleet 7
+add_pirate 3 8
+get_pirate_money 9
+get_pirate_money 1
+unite_fleets 5 0
+get_pirate_money 5
+add_fleet 0
+get_pirate_money 8
+unite_fleets 2 8
+get_pirate_money 3
+add_pirate -2 10
+pirate_argument 2 2
+add_fleet 3
+add_pirate 3 9
+get_pirate_money 0
+pirate_argument 10 -1
+get_pirate_money 8
+get_pirate_money 4
+unite_fleets 1 1
+pirate_argument 4 10
+add_fleet 10
+pirate_argument -1 4
+num_ships_for_fleet 8
+pirate_argument 3 5
+pirate_argument 10 0
+pirate_argument 9 1
+add_fleet 8
+get_pirate_money 1
+pay_pirate 6 15
+pay_pirate 9 51
+get_pirate_money 6
+add_fleet 2
+get_pirate_money 10
+get_pirate_money 4
+add_pirate -2 -2
+add_fleet 3
+add_fleet 0
+unite_fleets 2 0
+add_fleet -1
+add_pirate -2 1
+num_ships_for_fleet 2
+get_pirate_money 0
+pirate_argument 7 7
+get_pirate_money 1
+get_pirate_money 7
+add_pirate 6 7
+num_ships_for_fleet 9
+unite_fleets 4 10
+add_fleet 2
+unite_fleets -1 3
+add_fleet 10
+num_ships_for_fleet 7
+pay_pirate 5 79
+pirate_argument -2 0
+num_ships_for_fleet 1
+get_pirate_money 8
+unite_fleets 6 8
+pirate_argument 6 5
+get_pirate_money -2
+pirate_argument 5 -1
+pay_pirate 2 90
+pay_pirate 9 40
+pirate_argument 2 4
+num_ships_for_fleet 7
+get_pirate_money 4
+num_ships_for_fleet 5
+pirate_argument 7 1
+add_pirate 0 10
+unite_fleets 5 -1
+add_fleet 9
+add_pirate -1 -1
+get_pirate_money 0
+num_ships_for_fleet 9
+pay_pirate 5 41
+unite_fleets 7 4
+pay_pirate 8 55
+add_pirate 4 10
+add_pirate 4 -2
+pay_pirate 1 50
+add_pirate 2 0
+pay_pirate 5 84
+get_pirate_money -1
+add_pirate 3 9
+add_pirate 8 7
+add_fleet 5
+num_ships_for_fleet 0
+get_pirate_money 0
+pay_pirate 1 16
+add_pirate 10 10
+add_pirate 0 0
+add_fleet 9
+pirate_argument 3 1
+add_fleet 7
+unite_fleets 1 1
+pay_pirate 0 12
+get_pirate_money 5
+get_pirate_money 5
+pirate_argument 2 -2
+pay_pirate 3 95
+get_pirate_money 3
+add_pirate 5 10
+pay_pirate 2 82
+pay_pirate 3 71
+add_fleet 3
+unite_fleets 9 9
+add_fleet 5
+add_fleet 1
+add_fleet -1
+unite_fleets 3 7
+unite_fleets 9 0
+unite_fleets 7 -2
+get_pirate_money 5
+num_ships_for_fleet 0
+add_pirate 9 0
+unite_fleets 0 9
+pay_pirate 9 81
+num_ships_for_fleet 7
+get_pirate_money 3
+get_pirate_money -2
+pay_pirate 7 51
+unite_fleets 9 9
+add_fleet 3
+pay_pirate 8 88
+add_fleet 4
+num_ships_for_fleet 3
+get_pirate_money -2
+add_pirate 8 8
+add_pirate 5 -2
+unite_fleets 3 6
+add_pirate 10 0
+get_pirate_money 6
+add_pirate 2 7
+pirate_argument 4 9
+unite_fleets 2 -2
+num_ships_for_fleet -2
+add_fleet -1
+add_fleet 9
+pay_pirate -2 71
+pirate_argument 6 1
+pay_pirate 10 17
+pay_pirate 7 72
+add_pirate 6 2
+num_ships_for_fleet -1
+pirate_argument 4 -1
+pirate_argument -1 1
+unite_fleets -1 7
+add_fleet 7
+num_ships_for_fleet 8
+pay_pirate 2 73
+num_ships_for_fleet 6
+num_ships_for_fleet 5
+pirate_argument -2 6
+pirate_argument 6 4
+pay_pirate 5 94
+add_pirate 2 10
+add_fleet -1
+pay_pirate 9 88
+get_pirate_money 1
+add_fleet 9
+num_ships_for_fleet 6
+pay_pirate 5 74
+unite_fleets 7 7
+get_pirate_money 3
+add_pirate 0 2
+unite_fleets 8 -1
+unite_fleets 2 -1
+pay_pirate 0 86
+unite_fleets 3 6
+add_fleet 8
+add_fleet 4
+unite_fleets 7 2
+pirate_argument 9 -2
+add_fleet 4
+get_pirate_money 10
+add_pirate 10 9
+pirate_argument 2 10
+pay_pirate 0 98
+pay_pirate -2 56
+get_pirate_money 4
+pay_pirate 10 15
+pirate_argument 4 3
+pay_pirate 1 12
+num_ships_for_fleet 8
+num_ships_for_fleet 4
+unite_fleets -2 8
+pirate_argument 8 4
+get_pirate_money 7
+pay_pirate 6 25
+pay_pirate 2 30
+add_fleet 6
+unite_fleets -1 -2
+pay_pirate 9 69
+unite_fleets 0 -2
+add_fleet 1
+pirate_argument 3 5
+pay_pirate 7 21
+pay_pirate -1 29
+add_fleet -1
+unite_fleets -1 8
+pirate_argument 6 -2
+get_pirate_money -1
+pay_pirate 0 36
+pirate_argument -1 5
+num_ships_for_fleet 5
+pirate_argument 7 10
+num_ships_for_fleet 7
+unite_fleets 10 8
+pirate_argument -2 8
+pay_pirate 5 94
+get_pirate_money 8
+num_ships_for_fleet 10
+unite_fleets -2 6
+num_ships_for_fleet 6
+add_pirate 0 8
+add_pirate 1 8
+add_fleet 8
+num_ships_for_fleet -1
+pay_pirate 7 29
+get_pirate_money 10
+add_pirate 10 10
+pirate_argument 3 -2
+num_ships_for_fleet 8
+pirate_argument 2 6
+get_pirate_money 0
+add_fleet 2
+num_ships_for_fleet 9
+add_pirate 4 -2
+num_ships_for_fleet 9
+get_pirate_money -2
+unite_fleets 6 6
+add_fleet -2
+add_fleet -2
+add_pirate 9 8
+pirate_argument 6 7
+add_pirate 1 10
+num_ships_for_fleet 4
+add_pirate 0 3
+pay_pirate 8 87
+add_pirate 3 7
+num_ships_for_fleet 10
+num_ships_for_fleet 5
+add_fleet 1
+unite_fleets 6 1
+pirate_argument 2 3
+pay_pirate -2 87
+num_ships_for_fleet 2
+pay_pirate 3 79
+pay_pirate 8 34
+pay_pirate 7 60
+num_ships_for_fleet -1
+get_pirate_money 2
+num_ships_for_fleet 8
+get_pirate_money 0
+get_pirate_money 4
+pirate_argument 8 2
+num_ships_for_fleet 3
+add_fleet -1
+get_pirate_money 6
+unite_fleets 1 3
+get_pirate_money -1
+num_ships_for_fleet 4
+num_ships_for_fleet -1
+pay_pirate 7 31
+get_pirate_money 9
+unite_fleets 1 8
+unite_fleets 4 7
+get_pirate_money 0
+add_fleet 0
+add_pirate 8 9
+pirate_argument 8 3
+add_pirate 4 10
+num_ships_for_fleet 0
+pirate_argument 3 4
+num_ships_for_fleet 5
+add_fleet 2
+pay_pirate 1 48
+add_fleet 7
+num_ships_for_fleet 0
+pay_pirate 4 75
+pirate_argument 0 9
+unite_fleets 10 10
+add_fleet 2
+pirate_argument 6 -1
+pirate_argument 5 5
+add_fleet 10
+add_pirate 7 2
+num_ships_for_fleet 10
+unite_fleets 2 10
+add_pirate 1 2
+pay_pirate 9 88
+pirate_argument 9 4
+unite_fleets 4 6
+num_ships_for_fleet 0
+add_fleet 7
+add_fleet 6
+pirate_argument 7 4
+add_pirate 0 5
+add_pirate 5 5
+get_pirate_money 10
+unite_fleets 1 9
+pay_pirate 1 33
+add_pirate 10 6
+add_pirate 10 3
+add_fleet 10
+num_ships_for_fleet 1
+num_ships_for_fleet 9
+add_pirate 5 7
+add_pirate 3 0
+add_fleet -1
+add_pirate 3 -2
+pay_pirate 0 76
+pirate_argument 8 7
+add_fleet 1
+pirate_argument 0 6
+unite_fleets 0 3
+add_pirate -2 6
+add_pirate -2 10
+unite_fleets 6 -2
+num_ships_for_fleet 7
+add_pirate 10 6
+unite_fleets 9 6
+num_ships_for_fleet 2
+pay_pirate 0 1
+get_pirate_money -1
+num_ships_for_fleet 1
+pirate_argument 1 -1
+get_pirate_money 7
+num_ships_for_fleet 8
+add_pirate 0 7
+unite_fleets 10 1
+pay_pirate 7 82
+unite_fleets 2 3
+pay_pirate 8 89
+num_ships_for_fleet -2
+add_pirate 0 6
+add_pirate 8 1
+num_ships_for_fleet -1
+get_pirate_money 1
+unite_fleets 9 9
+pirate_argument 10 -1
+num_ships_for_fleet 4
+unite_fleets -2 4
+add_fleet 6
+unite_fleets 7 9
+add_fleet 2
+num_ships_for_fleet 3
+add_pirate 4 5
+pay_pirate 1 23
+pirate_argument 2 9
+get_pirate_money -1
+get_pirate_money 2
+get_pirate_money 6
+unite_fleets 0 4
+add_pirate -2 8
+num_ships_for_fleet 10
+add_fleet 1
+pay_pirate 2 23
+get_pirate_money 9
+num_ships_for_fleet 2
+add_fleet 5
+pirate_argument 4 0
+pirate_argument 2 0
+add_fleet 8
+pay_pirate 2 53
+unite_fleets -2 8
+unite_fleets 5 2
+pay_pirate 6 40
+get_pirate_money 2
+unite_fleets 8 -2
+get_pirate_money 0
+pay_pirate 4 79
+pay_pirate 1 70
+num_ships_for_fleet 1
+get_pirate_money 2
+num_ships_for_fleet 3
+pay_pirate 2 76
+add_pirate 2 -1
+num_ships_for_fleet 5
+num_ships_for_fleet 2
+pay_pirate 1 4
+unite_fleets 3 4
+add_fleet 5
+pay_pirate -1 37
+unite_fleets 5 -2
+pay_pirate 2 2
+add_pirate 7 8
+get_pirate_money 3
+pay_pirate 8 7
+unite_fleets 7 10
+get_pirate_money -2
+unite_fleets 5 9
+add_pirate 4 -1
+pay_pirate 4 -2
+pirate_argument 4 8
+num_ships_for_fleet 7
+unite_fleets 5 -1
+unite_fleets -1 8
+get_pirate_money 0
+pirate_argument 9 0
+num_ships_for_fleet 4
+unite_fleets 5 9
+pay_pirate 6 66
+pirate_argument 5 0
+num_ships_for_fleet 5
+num_ships_for_fleet 2
+pirate_argument 7 4
+num_ships_for_fleet 7
+add_pirate 7 7
+get_pirate_money -1
+add_pirate 8 0
+get_pirate_money -2
+num_ships_for_fleet -2
+pay_pirate 0 19
+get_pirate_money 7
+pirate_argument -2 3
+pirate_argument 9 5
+pay_pirate 5 51
+add_fleet 3
+add_fleet 0
+add_pirate 0 6
+pay_pirate 7 23
+get_pirate_money 5
+unite_fleets 0 7
+get_pirate_money 6
+pay_pirate 9 45
+unite_fleets 8 8
+get_pirate_money 10
+add_fleet 7
+get_pirate_money 0
+get_pirate_money -1
+pay_pirate 7 69
+add_pirate 3 10
+get_pirate_money -2
+add_pirate 9 3
+unite_fleets -1 -1
+pay_pirate 0 72
+num_ships_for_fleet -2
+add_fleet 5
+get_pirate_money 9
+get_pirate_money 0
+get_pirate_money -2
+num_ships_for_fleet 3
+get_pirate_money 2
+add_pirate 4 4
+pirate_argument 0 -1
+add_pirate 5 0
+get_pirate_money 7
+get_pirate_money -2
+get_pirate_money 5
+add_fleet 8
+get_pirate_money 3
+add_pirate 9 10
+pirate_argument 1 2
+unite_fleets 1 2
+add_pirate 1 10
+num_ships_for_fleet 10
+add_pirate 2 7
+pirate_argument 1 7
+num_ships_for_fleet 10
+pirate_argument 5 3
+pirate_argument 0 4
+add_pirate -2 4
+add_fleet 2
+add_pirate 6 0
+num_ships_for_fleet -1
+add_fleet 1
+get_pirate_money 7
+get_pirate_money 3
+pirate_argument 0 6
+pirate_argument 0 1
+num_ships_for_fleet 2
+pay_pirate 10 85
+pirate_argument 4 3
+pirate_argument 9 3
+num_ships_for_fleet 4
+unite_fleets 2 0
+get_pirate_money 3
+pirate_argument -2 -1
+add_pirate 6 3
+pirate_argument 3 1
+add_fleet 6
+num_ships_for_fleet 1
+add_pirate 8 2
+add_fleet 4
+add_pirate 8 -1
+add_fleet 4
+unite_fleets 2 -2
+num_ships_for_fleet 3
+add_pirate 4 6
+add_pirate 10 6
+num_ships_for_fleet -1
+add_fleet 3
+unite_fleets 6 6
+add_pirate 8 8
+num_ships_for_fleet 9
+pay_pirate 4 75
+pirate_argument 3 4
+pirate_argument 0 6
+pirate_argument 0 -1
+add_pirate 0 0
+get_pirate_money -1
+get_pirate_money 7
+get_pirate_money 3
+num_ships_for_fleet 1
+unite_fleets 8 3
+get_pirate_money 3
+unite_fleets 4 5
+add_fleet 5
+add_fleet 0
+add_pirate 8 4
+pay_pirate 6 84
+add_fleet 3
+add_fleet 10
+pirate_argument 0 3
+pay_pirate 2 -2
+unite_fleets 8 6
+pirate_argument 0 9
+add_fleet 9
+unite_fleets 3 0
+pay_pirate -1 62
+add_fleet 7
+num_ships_for_fleet 1
+unite_fleets 10 -1
+num_ships_for_fleet 1
+pirate_argument 10 5
+get_pirate_money 8
+pirate_argument 4 -1
+unite_fleets 4 7
+unite_fleets 0 1
+add_pirate 5 9
+add_fleet 7
+add_pirate 6 7
+add_pirate 5 8
+add_pirate 6 3
+pay_pirate 4 65
+pay_pirate 10 13
+unite_fleets 5 1
+pirate_argument 6 9
+add_pirate 4 8
+pay_pirate 0 92
+num_ships_for_fleet 6
+pay_pirate 0 15
+num_ships_for_fleet 0
+unite_fleets 2 -1
+pay_pirate 4 96
+unite_fleets -2 -1
+num_ships_for_fleet 1
+unite_fleets 10 2
+add_fleet 3
+add_pirate -1 0
+add_fleet 2
+pay_pirate 1 -1
+pay_pirate -2 100
+add_fleet 3
+num_ships_for_fleet 5
+add_pirate 2 8
+get_pirate_money 5
+get_pirate_money 1
+add_fleet 7
+unite_fleets 9 -1
+add_fleet 8
+get_pirate_money 2
+add_pirate 10 5
+pirate_argument 3 0
+num_ships_for_fleet 4
+pirate_argument 9 -1
+add_fleet 3
+get_pirate_money 1
+add_fleet 5
+unite_fleets 4 1
+add_fleet 10
+pay_pirate 1 32
+add_fleet 1
+pirate_argument 3 5
+num_ships_for_fleet 3
+pay_pirate 3 30
+get_pirate_money 5
+add_pirate 3 10
+pirate_argument 1 10
+get_pirate_money -1
+get_pirate_money 10
+pirate_argument 9 -1
+get_pirate_money 10
+unite_fleets -1 -2
+add_fleet 7
+get_pirate_money 4
+add_pirate 5 4
+add_pirate -2 7
+add_fleet 9
+get_pirate_money 5
+unite_fleets 3 5
+unite_fleets 2 2
+unite_fleets 8 -2
+pirate_argument 6 -2
+num_ships_for_fleet 10
+pirate_argument 9 7
+pay_pirate 7 79
+add_fleet 4
+get_pirate_money 9
+pay_pirate 4 8
+add_fleet 1
+unite_fleets 6 9
+add_pirate 10 4
+pirate_argument 7 6
+unite_fleets 3 3
+get_pirate_money 2
+add_fleet 6
+pirate_argument 6 7
+pirate_argument 6 4
+pay_pirate 10 76
+pirate_argument 0 1
+num_ships_for_fleet 5
+pay_pirate 0 56
+num_ships_for_fleet 6
+get_pirate_money -1
+pay_pirate 10 0
+num_ships_for_fleet 10
+num_ships_for_fleet 3
+add_pirate 8 3
+pirate_argument 4 10
+add_pirate 7 3
+pirate_argument 7 9
+pirate_argument 2 9
+add_fleet 10
+unite_fleets 9 5
+get_pirate_money 9
+num_ships_for_fleet 6
+pay_pirate 3 72
+num_ships_for_fleet 1
+get_pirate_money 1
+pay_pirate 9 8
+pirate_argument -2 7
+unite_fleets 7 3
+add_fleet -2
+pirate_argument -1 0
+unite_fleets -1 10
+unite_fleets 9 3
+add_pirate -1 2
+num_ships_for_fleet 4
+add_fleet 2
+add_fleet 3
+pay_pirate 10 7
+unite_fleets 4 0
+add_fleet 7
+num_ships_for_fleet 0
+unite_fleets 8 -2
+add_fleet 4
+unite_fleets -1 1
+num_ships_for_fleet 9
+add_pirate 7 8
+pirate_argument 10 5
+add_pirate 3 0
+pay_pirate 4 78
+add_fleet 5
+pirate_argument -2 9
+add_fleet 1
+add_fleet 6
+add_pirate 4 7
+num_ships_for_fleet 7
+get_pirate_money 5
+get_pirate_money 8
+unite_fleets -2 -1
+get_pirate_money 10
+pirate_argument 6 4
+get_pirate_money -2
+num_ships_for_fleet 10
+get_pirate_money 8
+pirate_argument 0 -1
+pay_pirate 4 74
+pay_pirate 9 95
+get_pirate_money 1
+add_fleet 8
+num_ships_for_fleet 2
+unite_fleets 7 1
+pirate_argument 2 -2
+add_pirate 0 2
+add_pirate 2 7
+add_pirate 1 5
+unite_fleets 8 3
+pay_pirate 7 0
+add_fleet 7
+add_pirate 2 1
+add_fleet 10
+pirate_argument 9 2
+add_pirate 1 3
+unite_fleets 2 1
+add_fleet 8
+num_ships_for_fleet 0
+add_fleet 1
+pirate_argument 4 10
+get_pirate_money 4
+pirate_argument 10 7
+pay_pirate 6 0
+add_pirate 10 5
+unite_fleets 6 5
+num_ships_for_fleet 0
+unite_fleets 6 0
+add_pirate 0 1
+get_pirate_money 2
+num_ships_for_fleet 4
+add_pirate 7 8
+add_fleet -2
+num_ships_for_fleet -1
+unite_fleets 6 4
+pay_pirate 6 75
+unite_fleets 7 6
+get_pirate_money 0
+num_ships_for_fleet 7
+num_ships_for_fleet 5
+num_ships_for_fleet 9
+pirate_argument 10 6
+num_ships_for_fleet 1
+pirate_argument 6 7
+unite_fleets -2 2
+get_pirate_money 4
+pirate_argument 9 9
+pirate_argument 10 0
+pay_pirate -1 15
+add_pirate 0 8
+add_fleet 10
+unite_fleets -1 8
+add_fleet -1
+add_fleet 10
+num_ships_for_fleet 4
+unite_fleets 10 -2
+unite_fleets -2 4
+num_ships_for_fleet 1
+unite_fleets 10 7
+pirate_argument 8 3
+add_fleet 0
+add_pirate -1 9
+pirate_argument 0 10
+pay_pirate 10 42
+pirate_argument 7 3
+num_ships_for_fleet 4
+num_ships_for_fleet 0
+add_fleet 6
+pay_pirate 10 27
+add_pirate 9 6
+pirate_argument 5 7
+add_fleet -1
+num_ships_for_fleet 9
+unite_fleets 9 5
+unite_fleets 5 1
+pay_pirate 5 88
+get_pirate_money 8
+num_ships_for_fleet 10
+num_ships_for_fleet 4
+get_pirate_money 3
+get_pirate_money -1
+pirate_argument 9 0
+pay_pirate 7 35
+get_pirate_money 10
+add_pirate 4 0
+pay_pirate 10 78
+add_fleet 3
+num_ships_for_fleet 1
+pirate_argument 1 8
+add_fleet 9
+add_pirate -1 -1
+get_pirate_money 9
+add_pirate 2 4
+get_pirate_money 10
+get_pirate_money 4
+pirate_argument -2 -2
+unite_fleets 7 4
+add_fleet -2
+unite_fleets 6 0
+add_pirate 2 -2
+add_fleet 0
+get_pirate_money 8
+pay_pirate 7 77
+num_ships_for_fleet 9
+num_ships_for_fleet -2
+pay_pirate 2 51
+unite_fleets -1 -1
+unite_fleets 2 9
+pay_pirate -1 22
+num_ships_for_fleet 6
+unite_fleets 8 3
+num_ships_for_fleet 5
+pirate_argument 1 7
+add_fleet 1
+pirate_argument 10 2
+add_pirate 7 10
+add_fleet 9
+num_ships_for_fleet 9
+pay_pirate 1 83
+num_ships_for_fleet 10
+pay_pirate 5 27
+unite_fleets 10 4
+num_ships_for_fleet 9
+pirate_argument 2 3
+unite_fleets -1 6
+add_fleet 5
+add_pirate 4 5
+num_ships_for_fleet 6
+add_fleet 4
+unite_fleets 7 10
+pay_pirate 8 71
+get_pirate_money 9
+unite_fleets -1 -2
+pay_pirate -2 76
+add_fleet 4
+add_fleet 7
+add_fleet 3
+get_pirate_money 5
+add_fleet 6
+unite_fleets -2 7
+num_ships_for_fleet 6
+pay_pirate 9 1
+add_pirate 2 -1
+add_pirate 10 8
+add_fleet 9
+num_ships_for_fleet 1
+get_pirate_money 0
+num_ships_for_fleet 9
+add_pirate 10 -2
+get_pirate_money 3
+num_ships_for_fleet 2
+unite_fleets 3 -2
+add_pirate 8 6
+pirate_argument -1 4
+num_ships_for_fleet -1
+add_pirate 9 1
+get_pirate_money 9
+unite_fleets -1 9
+num_ships_for_fleet -2
+num_ships_for_fleet -1
+add_pirate 7 -2
+pay_pirate 10 16
+pay_pirate 8 77
+pay_pirate 1 29
+add_pirate -2 9
+add_fleet 3
+num_ships_for_fleet 6
+add_fleet -1
+num_ships_for_fleet 5
+get_pirate_money -2
+num_ships_for_fleet 6
+pirate_argument 4 -2
+unite_fleets 10 4
+add_pirate 1 -1
+get_pirate_money 10
+unite_fleets -2 6
+add_fleet 10
+num_ships_for_fleet 2
+unite_fleets 2 4
+unite_fleets 3 1
+add_pirate -1 10
+add_fleet 9
+get_pirate_money 5
+num_ships_for_fleet 10
+get_pirate_money 3
+add_pirate -1 9
+get_pirate_money -1
+unite_fleets 10 0
+add_pirate 0 -2
+get_pirate_money 10
+add_fleet -2
+unite_fleets -2 10
+unite_fleets 8 2
+pay_pirate -2 77
+get_pirate_money -1
+pirate_argument 8 4
+get_pirate_money 2
+pirate_argument 3 -1
+get_pirate_money 8
+add_pirate 6 6
+get_pirate_money 7
+add_pirate 4 9
+num_ships_for_fleet 5
+unite_fleets 7 -2
+unite_fleets -2 5
+get_pirate_money 4
+add_fleet 0
+pay_pirate 1 4
+add_fleet -2
+add_fleet 8
+num_ships_for_fleet 7
+pirate_argument 10 2
+unite_fleets 2 6
+unite_fleets 0 3
+pay_pirate 9 87
+pirate_argument 9 8
+pay_pirate -1 85
+add_fleet 1
+pay_pirate 10 22
+get_pirate_money 3
+pirate_argument 4 10
+unite_fleets 0 -2
+pirate_argument 4 4
+unite_fleets 9 6
+get_pirate_money -1
+add_pirate 5 7
+num_ships_for_fleet 8
+num_ships_for_fleet 0
+pay_pirate -1 92
+add_fleet 2
+pay_pirate 5 23
+pay_pirate 1 66
+pirate_argument 3 7
+pay_pirate 0 12
+pay_pirate 0 94
+pirate_argument 5 3
+get_pirate_money 4
+num_ships_for_fleet 8
+pay_pirate 6 54
+pirate_argument 1 9
+add_pirate 9 -2
+unite_fleets 9 8
+pirate_argument 1 10
+num_ships_for_fleet 8
+add_fleet 2
+pirate_argument 7 6
+pay_pirate 4 62
+get_pirate_money -2
+pirate_argument -1 9
+num_ships_for_fleet 8
+add_pirate 5 2
+unite_fleets 3 5
+add_fleet 5
+unite_fleets 4 4
+num_ships_for_fleet 0
+pirate_argument 9 9
+unite_fleets 0 9
+get_pirate_money -1
+add_fleet 5
+unite_fleets 8 6
+get_pirate_money 10
+pay_pirate 2 37
+unite_fleets 10 7
+pay_pirate 7 69
+pay_pirate 7 32
+add_pirate 8 5
+get_pirate_money 0
+add_pirate 8 1
+pay_pirate 6 39
+add_fleet 0
+num_ships_for_fleet 2
+pay_pirate 8 16
+unite_fleets 10 1
+get_pirate_money 10
+get_pirate_money 7
+add_fleet 2
+unite_fleets -2 4
+num_ships_for_fleet 8
+get_pirate_money 7
+add_fleet 6
+add_pirate 10 3
+add_pirate 7 4
+pay_pirate 8 97
+pay_pirate 10 37
+num_ships_for_fleet 4
+unite_fleets 6 0
+pirate_argument 10 3
+num_ships_for_fleet 3
+unite_fleets 9 7
+unite_fleets 9 10
+pay_pirate 3 19
+pirate_argument 9 1
+num_ships_for_fleet 0
+pirate_argument 5 -1
+add_pirate 2 9
+add_fleet -1
+add_pirate 5 7
+num_ships_for_fleet -2
+pirate_argument 6 1
+unite_fleets 10 3
+add_fleet 6
+add_fleet 4
+pay_pirate -1 31
+get_pirate_money 7
+unite_fleets 2 0
+get_pirate_money 0
+get_pirate_money -2
+add_pirate 7 4
+add_pirate 4 5
+get_pirate_money 2
+pay_pirate 2 8
+add_fleet 4
+get_pirate_money -2
+unite_fleets 4 8
+get_pirate_money 2
+add_fleet 6
+num_ships_for_fleet -1
+get_pirate_money 8
+add_fleet 1
+unite_fleets 3 7
+get_pirate_money 6
+unite_fleets 8 1
+add_fleet 0
+add_fleet 9
+num_ships_for_fleet 5
+add_fleet 5
+add_pirate 4 8
+add_fleet -1
+add_pirate 4 7
+num_ships_for_fleet 2
+get_pirate_money 1
+add_fleet 5
+get_pirate_money 0
+add_pirate 9 0
+pay_pirate -2 21
+add_pirate 6 0
+num_ships_for_fleet 3
+unite_fleets 10 7
+get_pirate_money 7
+pirate_argument 10 5
+pirate_argument 10 9
+add_pirate -2 10
+pirate_argument 0 -2
+num_ships_for_fleet -2
+add_pirate 7 -2
+pirate_argument 10 3
+pirate_argument 8 -2
+pay_pirate 6 13
+add_pirate 7 6
+add_fleet 3
+get_pirate_money 5
+pay_pirate 4 16
+pay_pirate 0 6
+pay_pirate 0 15
+pay_pirate 1 57
+pirate_argument 2 8
+pay_pirate 9 76
+unite_fleets 7 7
+num_ships_for_fleet 2
+num_ships_for_fleet 1
+add_fleet 2
+get_pirate_money 8
+get_pirate_money 10
+add_fleet 3
+pirate_argument 7 8
+num_ships_for_fleet 8
+unite_fleets 4 6
+pay_pirate 1 97
+unite_fleets 10 5
+pirate_argument 10 1
+num_ships_for_fleet 5
+num_ships_for_fleet -1
+pay_pirate 3 83
+unite_fleets 7 2
+pirate_argument 8 -1
+add_fleet -1
+pay_pirate 3 12
+add_pirate 1 1
+pay_pirate 3 9
+unite_fleets 0 1
+pirate_argument 1 -1
+add_fleet 4
+add_pirate 0 8
+pirate_argument 6 10
+get_pirate_money -1
+pirate_argument -1 -1
+add_pirate 0 1
+add_fleet 9
+pay_pirate 5 11
+num_ships_for_fleet 3
+num_ships_for_fleet 1
+unite_fleets 8 0
+add_fleet 3
+add_pirate 1 0
+add_pirate -2 -2
+pirate_argument -1 7
+num_ships_for_fleet 10
+num_ships_for_fleet 1
+num_ships_for_fleet -2
+add_fleet 8
+get_pirate_money -2
+num_ships_for_fleet 3
+add_fleet 1
+add_fleet -1
+add_fleet 7
+add_fleet 8
+pay_pirate 8 92
+pirate_argument 7 8
+num_ships_for_fleet -2
+get_pirate_money 7
+num_ships_for_fleet 6
+unite_fleets -2 4
+pirate_argument 2 10
+pirate_argument 4 5
+add_pirate 4 9
+pay_pirate 4 27
+pirate_argument 5 4
+add_pirate 5 1
+pirate_argument 5 2
+num_ships_for_fleet 7
+pirate_argument 3 8
+pirate_argument 8 2
+add_fleet -2
+pirate_argument -2 8
+get_pirate_money 8
+get_pirate_money 4
+num_ships_for_fleet -2
+add_pirate 7 -2
+unite_fleets 0 -2
+pay_pirate 3 7
+num_ships_for_fleet -1
+add_fleet -1
+unite_fleets -1 6
+unite_fleets 5 -2
+pirate_argument 10 8
+get_pirate_money 6
+get_pirate_money 9
+pay_pirate 10 92
+unite_fleets 2 8
+pay_pirate 2 33
+get_pirate_money 10
+num_ships_for_fleet 8
+pay_pirate -2 100
+add_pirate 8 -2
+add_fleet -2
+pirate_argument 8 9
+add_pirate 3 9
+num_ships_for_fleet -1
+add_pirate 10 -1
+get_pirate_money -2
+unite_fleets 7 3
+get_pirate_money 7
+num_ships_for_fleet 6
+pirate_argument 2 7
+pirate_argument 3 5
+num_ships_for_fleet 10
+pay_pirate 2 8
+pirate_argument -1 10
+get_pirate_money 5
+add_fleet 5
+unite_fleets 5 2
+add_pirate 7 9
+pay_pirate 3 86
+add_pirate 6 8
+pirate_argument 6 7
+add_fleet 7
+unite_fleets 7 -1
+pirate_argument 2 2
+pirate_argument 9 9
+add_pirate 1 4
+pay_pirate -1 35
+get_pirate_money 7
+add_fleet 6
+pay_pirate -2 99
+unite_fleets 6 5
+add_pirate 6 1
+pay_pirate 5 -1
+pay_pirate 5 46
+unite_fleets -1 -2
+get_pirate_money 4
+add_fleet 4
+add_pirate 3 2
+add_fleet -2
+unite_fleets 4 -2
+num_ships_for_fleet -1
+get_pirate_money 1
+pay_pirate 3 63
+add_pirate 4 1
+num_ships_for_fleet -2
+pirate_argument 7 7
+unite_fleets 7 1
+unite_fleets 3 9
+unite_fleets -1 1
+pay_pirate -2 15
+pay_pirate 2 71
+num_ships_for_fleet 8
+unite_fleets 5 -2
+get_pirate_money 6
+pay_pirate 2 30
+num_ships_for_fleet 10
+get_pirate_money 10
+add_fleet 7
+pirate_argument 7 8
+add_pirate 6 9
+add_pirate 0 10
+add_pirate 10 1
+add_pirate 2 0
+num_ships_for_fleet 6
+num_ships_for_fleet 5
+add_pirate 7 -2
+get_pirate_money -2
+pirate_argument 6 4
+unite_fleets 3 7
+get_pirate_money 5
+add_fleet 8
+unite_fleets 1 8
+num_ships_for_fleet -1
+unite_fleets 6 3
+add_fleet 9
+num_ships_for_fleet 6
+unite_fleets 1 -1
+get_pirate_money 2
+unite_fleets 0 -1
+unite_fleets 5 -2
+pirate_argument 10 0
+add_pirate 6 4
+pay_pirate -2 56
+unite_fleets 9 9
+add_fleet 4
+pirate_argument 9 2
+unite_fleets 1 0
+pay_pirate -1 48
+unite_fleets 10 3
+pay_pirate 3 84
+pay_pirate 7 24
+num_ships_for_fleet 9
+get_pirate_money -1
+pirate_argument 2 -1
+get_pirate_money 3
+num_ships_for_fleet 10
+add_pirate 7 0
+get_pirate_money 3
+add_fleet -1
+pirate_argument 5 -2
+get_pirate_money 3
+unite_fleets 9 2
+num_ships_for_fleet 1
+unite_fleets 4 0
+pay_pirate 2 24
+pay_pirate -2 26
+num_ships_for_fleet 5
+unite_fleets 3 4
+pirate_argument 8 3
+pirate_argument 7 2
+get_pirate_money -1
+num_ships_for_fleet 0
+num_ships_for_fleet -1
+pirate_argument 3 4
+pirate_argument 9 7
+unite_fleets 8 1
+get_pirate_money 1
+pay_pirate 3 64
+add_pirate 7 10
+pirate_argument -2 8
+add_pirate -2 4
+pirate_argument 5 -2
+pay_pirate 1 21
+unite_fleets 3 7
+pirate_argument -1 3
+pay_pirate -1 51
+num_ships_for_fleet 7
+pay_pirate 0 8
+add_pirate 3 8
+add_pirate 6 -1
+pay_pirate 2 55
+get_pirate_money 10
+num_ships_for_fleet 5
+get_pirate_money 5
+pirate_argument -2 1
+unite_fleets 0 9
+pirate_argument -1 7
+pirate_argument 6 2
+get_pirate_money 0
+num_ships_for_fleet 5
+pirate_argument 10 9
+get_pirate_money -1
+unite_fleets -2 4
+pay_pirate -2 12
+pirate_argument -2 2
+unite_fleets 8 0
+add_pirate 2 -2
+unite_fleets 3 9
+unite_fleets -2 1
+add_pirate 4 3
+get_pirate_money -2
+add_fleet 0
+add_fleet 4
+add_fleet 2
+num_ships_for_fleet 9
+pay_pirate -1 2
+add_pirate 0 8
+pay_pirate 5 59
+pay_pirate 8 39
+add_fleet 6
+pirate_argument 2 7
+pirate_argument 6 9
+pirate_argument 1 1
+get_pirate_money 3
+unite_fleets 5 -1
+unite_fleets -2 -2
+pirate_argument 5 5
+pirate_argument 5 10
+get_pirate_money -2
+unite_fleets 8 1
+add_fleet 8
+pirate_argument 1 -1
+unite_fleets 8 3
+num_ships_for_fleet -2
+add_fleet -2
+pirate_argument 1 0
+add_pirate 6 10
+pirate_argument -1 3
+pirate_argument 3 3
+add_fleet -1
+pay_pirate 7 77
+get_pirate_money 9
+pirate_argument 1 10
+add_fleet 0
+pirate_argument -1 9
+num_ships_for_fleet 9
+num_ships_for_fleet 5
+unite_fleets 9 10
+add_fleet 1
+add_fleet 8
+add_pirate 7 9
+get_pirate_money 8
+add_fleet -1
+num_ships_for_fleet 10
+pirate_argument 0 -2
+add_pirate -2 0
+pay_pirate 1 31
+add_fleet 9
+pirate_argument 1 -2
+unite_fleets 4 2
+add_pirate 1 5
+add_pirate 10 6
+num_ships_for_fleet 1
+unite_fleets 6 8
+num_ships_for_fleet 4
+pirate_argument -2 2
+unite_fleets -1 9
+add_pirate 10 5
+num_ships_for_fleet -1
+add_pirate 7 5
+get_pirate_money 6
+get_pirate_money 8
+num_ships_for_fleet 6
+get_pirate_money 2
+num_ships_for_fleet 3
+get_pirate_money 3
+pay_pirate 4 73
+unite_fleets 6 9
+add_pirate 6 0
+add_fleet 9
+unite_fleets 3 1
+unite_fleets 0 6
+add_fleet 5
+pirate_argument 6 8
+pirate_argument 0 6
+pirate_argument 8 0
+get_pirate_money 10
+add_pirate -2 9
+pirate_argument 7 0
+get_pirate_money 3
+add_fleet 4
+num_ships_for_fleet 2
+get_pirate_money 9
+unite_fleets -1 7
+get_pirate_money 0
+add_fleet 2
+num_ships_for_fleet 1
+add_pirate 9 8
+pirate_argument 7 7
+num_ships_for_fleet 10
+num_ships_for_fleet 0
+get_pirate_money -2
+add_pirate 4 0
+add_fleet -1
+num_ships_for_fleet 7
+add_pirate 5 -2
+get_pirate_money 9
+add_pirate 1 10
+add_fleet 1
+add_fleet 8
+get_pirate_money 0
+get_pirate_money 3
+pirate_argument 0 2
+get_pirate_money 7
+get_pirate_money -2
+get_pirate_money 0
+unite_fleets 2 5
+num_ships_for_fleet 7
+num_ships_for_fleet -1
+pay_pirate 8 86
+pirate_argument 1 -1
+pay_pirate 9 64
+add_pirate 10 -1
+pay_pirate 10 22
+get_pirate_money 4
+num_ships_for_fleet 8
+add_pirate 4 9
+pirate_argument 8 5
+num_ships_for_fleet 4
+pay_pirate 1 61
+unite_fleets 2 10
+unite_fleets 2 10
+add_pirate -2 -2
+num_ships_for_fleet 2
+add_fleet 2
+add_fleet -1
+add_pirate 10 10
+unite_fleets 6 5
+pay_pirate 10 72
+add_fleet 1
+unite_fleets 1 1
+add_fleet 10
+get_pirate_money 1
+add_fleet 8
+unite_fleets 2 6
+pirate_argument 3 5
+add_fleet 1
+add_pirate 7 9
+pay_pirate 6 72
+get_pirate_money 7
+add_pirate 10 3
+num_ships_for_fleet -1
+unite_fleets -1 2
+add_pirate 9 10
+add_fleet 9
+pirate_argument 5 10
+num_ships_for_fleet -2
+add_fleet 10
+add_fleet 10
+add_pirate -1 9
+add_pirate -2 -1
+add_fleet 10
+pay_pirate 9 100
+add_pirate 6 10
+pirate_argument -1 7
+add_fleet 9
+get_pirate_money 7
+unite_fleets 5 3
+add_fleet 9
+add_fleet 8
+pay_pirate 3 13
+unite_fleets 6 10
+add_fleet 0
+pay_pirate 4 60
+get_pirate_money 4
+get_pirate_money 6
+add_pirate -2 2
+num_ships_for_fleet -2
+pay_pirate 10 12
+add_pirate 6 1
+unite_fleets 9 9
+unite_fleets -1 6
+num_ships_for_fleet 9
+pay_pirate -1 78
+pay_pirate 2 5
+add_pirate 1 7
+unite_fleets 1 -2
+num_ships_for_fleet 1
+add_pirate 8 4
+get_pirate_money 8
+get_pirate_money 7
+pirate_argument 10 10
+unite_fleets 6 6
+pay_pirate 9 67
+get_pirate_money 3
+add_pirate 5 1
+pirate_argument 2 3
+add_pirate 9 5
+add_fleet -2
+add_fleet 7
+num_ships_for_fleet 3
+get_pirate_money 3
+num_ships_for_fleet 3
+pirate_argument -1 0
+add_fleet 10
+add_fleet 10
+add_pirate 8 -2
+get_pirate_money 3
+pirate_argument 1 7
+get_pirate_money 4
+add_fleet 0
+pirate_argument 10 -2
+pirate_argument 4 9
+num_ships_for_fleet 6
+num_ships_for_fleet 7
+pirate_argument 1 7
+add_fleet -2
+get_pirate_money 2
+pay_pirate 8 73
+add_pirate 0 7
+num_ships_for_fleet 0
+get_pirate_money 1
+add_pirate 4 9
+pay_pirate -1 32
+add_fleet 2
+pirate_argument 8 4
+add_fleet 2
+add_pirate 8 0
+add_pirate 10 10
+pay_pirate 9 43
+unite_fleets 8 -2
+unite_fleets 7 2
+add_pirate 8 -2
+num_ships_for_fleet 10
+unite_fleets 6 8
+unite_fleets 3 1
+unite_fleets -1 9
+add_pirate 10 5
+num_ships_for_fleet -2
+get_pirate_money 7
+pay_pirate 9 50
+add_pirate 3 7
+get_pirate_money 8
+pay_pirate 4 47
+unite_fleets 4 -2
+pirate_argument 7 6
+pirate_argument 8 10
+get_pirate_money 3
+add_pirate 3 -2
+get_pirate_money 8
+get_pirate_money 3
+pirate_argument 1 2
+get_pirate_money -1
+unite_fleets 7 5
+num_ships_for_fleet 10
+add_fleet 3
+pay_pirate 8 5
+num_ships_for_fleet 9
+unite_fleets 4 5
+pay_pirate 2 83
+add_pirate 8 7
+add_fleet 4
+get_pirate_money -2
+pay_pirate 3 51
+pirate_argument 10 1
+pirate_argument 2 0
+pirate_argument 8 3
+unite_fleets 2 7
+pay_pirate 5 77
+num_ships_for_fleet 7
+pirate_argument -1 3
+unite_fleets 5 -2
+get_pirate_money 9
+pirate_argument 8 4
+get_pirate_money 8
+get_pirate_money 8
+get_pirate_money 10
+num_ships_for_fleet 5
+pirate_argument 9 -2
+add_fleet 9
+num_ships_for_fleet 10
+add_fleet 2
+pirate_argument 3 10
+num_ships_for_fleet 8
+add_fleet 0
+add_fleet 5
+unite_fleets 2 6
+add_fleet 6
+num_ships_for_fleet 10
+unite_fleets 5 9
+pay_pirate 6 54
+num_ships_for_fleet 3
+unite_fleets 2 7
+pirate_argument 5 9
+add_fleet 4
+get_pirate_money 8
+add_pirate 1 1
+pirate_argument 3 -1
+unite_fleets 5 8
+pirate_argument 8 -1
+pirate_argument 5 6
+unite_fleets 1 9
+unite_fleets 2 1
+unite_fleets 7 6
+pirate_argument 6 1
+add_pirate 2 5
+num_ships_for_fleet 3
+pirate_argument -2 2
+add_pirate 8 7
+get_pirate_money 6
+add_fleet 6
+get_pirate_money 9
+add_pirate 1 4
+pay_pirate 4 27
+unite_fleets 9 9
+unite_fleets 0 7
+unite_fleets 1 6
+pay_pirate 9 28
+unite_fleets 10 2
+unite_fleets 8 -1
+num_ships_for_fleet 7
+add_pirate 6 9
+add_pirate 0 -2
+num_ships_for_fleet 8
+get_pirate_money 0
+num_ships_for_fleet 10
+pay_pirate 5 93
+pay_pirate 4 93
+add_pirate 1 8
+add_pirate 3 1
+add_fleet 0
+pirate_argument 8 10
+get_pirate_money -2
+add_pirate 3 3
+pirate_argument 3 1
+get_pirate_money -2
+add_pirate 3 5
+num_ships_for_fleet 4
+num_ships_for_fleet 2
+pirate_argument 2 10
+unite_fleets 7 0
+get_pirate_money -2
+get_pirate_money -2
+add_fleet 10
+num_ships_for_fleet -1
+pay_pirate 4 94
+pay_pirate 4 23
+pirate_argument 2 9
+unite_fleets 7 3
+pay_pirate -1 59
+pay_pirate 6 38
+get_pirate_money 10
+get_pirate_money 4
+pay_pirate 4 46
+pirate_argument 7 3
+add_pirate 3 0
+unite_fleets 0 5
+pirate_argument 9 1
+add_pirate 3 -1
+pirate_argument 4 -1
+pay_pirate 6 34
+pay_pirate 7 12
+add_pirate 0 10
+add_pirate 3 6
+pay_pirate -1 18
+pay_pirate 4 42
+add_fleet 4
+num_ships_for_fleet -1
+unite_fleets -1 6
+num_ships_for_fleet -1
+pirate_argument 4 5
+pay_pirate 3 63
+unite_fleets 6 9
+pirate_argument 8 2
+unite_fleets 3 9
+num_ships_for_fleet 4
+pirate_argument 3 4
+add_fleet 9
+pay_pirate 3 81
+num_ships_for_fleet 5
+pirate_argument 2 4
+add_pirate 3 1
+add_pirate 6 2
+get_pirate_money 10
+pirate_argument 4 5
+pirate_argument 5 -2
+add_pirate 5 7
+get_pirate_money 5
+pirate_argument 6 10
+add_fleet 1
+pirate_argument 6 -1
+pirate_argument 6 0
+unite_fleets 10 3
+pay_pirate 2 45
+pirate_argument -2 2
+num_ships_for_fleet 3
+add_pirate 8 6
+get_pirate_money 2
+get_pirate_money 3
+add_pirate 3 5
+pay_pirate -1 90
+unite_fleets 5 3
+add_fleet 8
+get_pirate_money 1
+add_fleet 10
+unite_fleets -2 1
+unite_fleets 7 10
+unite_fleets -1 9
+get_pirate_money 10
+add_pirate 5 10
+pirate_argument -1 4
+num_ships_for_fleet 2
+get_pirate_money -1
+pirate_argument 2 -1
+unite_fleets 5 1
+unite_fleets -2 8
+num_ships_for_fleet -2
+add_pirate 8 2
+add_pirate 7 10
+pirate_argument 7 10
+num_ships_for_fleet 4
+add_fleet 10
+pay_pirate 8 63
+num_ships_for_fleet 7
+pirate_argument 1 8
+add_pirate 0 4
+pirate_argument 4 7
+add_fleet 3
+add_pirate 10 8
+pay_pirate 8 95
+unite_fleets 4 0
+pirate_argument 1 7
+unite_fleets 8 -1
+add_pirate 7 -2
+add_pirate 4 2
+add_fleet 7
+unite_fleets 2 4
+get_pirate_money 6
+get_pirate_money -1
+num_ships_for_fleet -1
+unite_fleets 9 1
+get_pirate_money 6
+add_fleet 9
+add_pirate 9 5
+pay_pirate 0 94
+pirate_argument 8 7
+pirate_argument 9 8
+pay_pirate 4 2
+add_pirate 10 7
+pirate_argument 0 5
+pirate_argument 10 0
+get_pirate_money 0
+unite_fleets -1 8
+num_ships_for_fleet 0
+num_ships_for_fleet 0
+add_fleet 0
+add_fleet -1
+pay_pirate -2 59
+get_pirate_money 7
+get_pirate_money 2
+add_pirate 10 6
+pirate_argument 0 8
+pirate_argument 6 8
+unite_fleets 1 -1
+add_fleet 2
+add_fleet 4
+get_pirate_money 3
+add_fleet 7
+get_pirate_money -1
+pirate_argument 7 -1
+pay_pirate 0 57
+pay_pirate 9 16
+add_pirate 1 10
+add_pirate 10 7
+add_fleet 5
+pirate_argument -1 -2
+pirate_argument 9 7
+unite_fleets 7 -2
+num_ships_for_fleet 4
+pay_pirate 5 15
+add_pirate -2 2
+get_pirate_money 4
+unite_fleets 10 10
+pirate_argument 0 -2
+add_fleet -1
+unite_fleets -2 9
+get_pirate_money 8
+add_fleet 2
+add_fleet 2
+unite_fleets 6 5
+get_pirate_money 5
+num_ships_for_fleet 9
+add_pirate 0 0
+add_fleet 7
+pay_pirate -1 5
+pay_pirate 4 70
+get_pirate_money 9
+num_ships_for_fleet 4
+num_ships_for_fleet 0
+pirate_argument 6 4
+add_pirate 6 7
+add_pirate 6 6
+add_pirate 5 -1
+unite_fleets 0 9
+pay_pirate 5 80
+add_fleet 8
+pay_pirate 9 63
+unite_fleets 5 -1
+get_pirate_money 10
+pirate_argument 10 -1
+num_ships_for_fleet 0
+add_pirate 10 3
+unite_fleets 8 7
+pay_pirate 6 3
+pirate_argument -1 -2
+unite_fleets 8 0
+add_fleet 8
+get_pirate_money -1
+unite_fleets 4 9
+unite_fleets 10 8
+get_pirate_money 8
+num_ships_for_fleet 10
+add_fleet 1
+unite_fleets 0 10
+num_ships_for_fleet 5
+num_ships_for_fleet 0
+pay_pirate 7 98
+get_pirate_money 4
+pirate_argument 9 0
+pay_pirate -2 31
+num_ships_for_fleet 3
+pay_pirate 0 93
+get_pirate_money 8
+pay_pirate 10 2
+pirate_argument 10 10
+pay_pirate 9 51
+add_fleet 3
+pirate_argument 5 6
+num_ships_for_fleet 9
+unite_fleets 2 3
+num_ships_for_fleet 2
+unite_fleets -2 1
+num_ships_for_fleet 5
+add_pirate 5 0
+pay_pirate -1 81
+get_pirate_money 9
+num_ships_for_fleet 5
+get_pirate_money 9
+pay_pirate -1 81
+get_pirate_money 10
+get_pirate_money 6
+pay_pirate 7 22
+add_pirate 2 1
+unite_fleets 8 9
+get_pirate_money 2
+num_ships_for_fleet 8
+add_fleet 8
+pay_pirate 6 90
+unite_fleets 3 -2
+add_fleet 8
+pirate_argument 0 0
+unite_fleets -1 6
+add_pirate 5 9
+add_pirate 4 6
+add_pirate 1 9
+num_ships_for_fleet 6
+get_pirate_money 7
+get_pirate_money 0
+get_pirate_money 0
+add_pirate 0 6
+pirate_argument 4 4
+get_pirate_money 0
+num_ships_for_fleet 5
+add_fleet 10
+pay_pirate -1 71
+unite_fleets 0 -2
+add_fleet -2
+num_ships_for_fleet 5
+get_pirate_money 10
+unite_fleets 7 3
+add_fleet 1
+num_ships_for_fleet 6
+get_pirate_money 7
+pirate_argument 0 8
+get_pirate_money 7
+pay_pirate 10 61
+pirate_argument 2 2
+add_fleet 6
+add_fleet 10
+pirate_argument 8 10
+get_pirate_money 9
+get_pirate_money -1
+pirate_argument -1 7
+pay_pirate 3 76
+pirate_argument 0 10
+num_ships_for_fleet 3
+num_ships_for_fleet 6
+unite_fleets 5 0
+add_fleet 7
+add_pirate 5 5
+pay_pirate 6 -1
+unite_fleets 10 0
+num_ships_for_fleet 10
+add_pirate 3 1
+pirate_argument 6 4
+add_pirate 10 6
+add_fleet 5
+add_fleet -1
+unite_fleets 9 7
+add_fleet 8
+add_fleet 7
+add_fleet 3
+pay_pirate 3 12
+num_ships_for_fleet 8
+pirate_argument -2 5
+get_pirate_money 8
+add_pirate 1 5
+unite_fleets 2 6
+add_pirate 10 -1
+add_fleet 10
+get_pirate_money 8
+pirate_argument -1 7
+get_pirate_money 6
+num_ships_for_fleet -2
+pay_pirate 6 18
+pay_pirate 2 12
+add_pirate -1 -2
+pay_pirate 3 36
+num_ships_for_fleet 9
+num_ships_for_fleet -2
+num_ships_for_fleet 0
+add_fleet 7
+add_fleet 9
+add_pirate -2 6
+pirate_argument 3 6
+get_pirate_money 1
+get_pirate_money 6
+get_pirate_money 3
+pay_pirate 8 78
+num_ships_for_fleet 10
+num_ships_for_fleet 5
+add_fleet 0
+unite_fleets 2 3
+num_ships_for_fleet 10
+pirate_argument 6 9
+add_fleet 0
+unite_fleets 5 5
+add_fleet 4
+add_pirate 3 10
+pay_pirate -1 45
+add_fleet 4
+unite_fleets 10 10
+pay_pirate -1 19
+pirate_argument 9 0
+add_fleet 8
+pay_pirate 8 82
+num_ships_for_fleet 5
+num_ships_for_fleet 8
+unite_fleets 2 -2
+get_pirate_money -1
+pay_pirate 3 90
+num_ships_for_fleet -1
+num_ships_for_fleet 4
+pirate_argument 4 2
+add_fleet 4
+pirate_argument 10 6
+unite_fleets 5 2
+num_ships_for_fleet 7
+pay_pirate -1 89
+pay_pirate 3 0
+pay_pirate 9 87
+add_fleet 4
+unite_fleets -1 -2
+get_pirate_money 5
+get_pirate_money 1
+pirate_argument 9 7
+pay_pirate 9 62
+add_fleet -1
+unite_fleets 5 6
+pirate_argument 6 -2
+add_fleet 4
+get_pirate_money -1
+num_ships_for_fleet 7
+pirate_argument 8 8
+get_pirate_money 8
+num_ships_for_fleet 3
+pirate_argument 6 10
+add_pirate 8 3
+get_pirate_money 2
+pay_pirate -2 52
+add_fleet 7
+pirate_argument 2 1
+add_fleet 4
+num_ships_for_fleet 2
+num_ships_for_fleet -1
+pay_pirate 0 20
+add_pirate -1 7
+num_ships_for_fleet 10
+add_fleet 2
+add_pirate 5 7
+add_pirate 6 9
+pay_pirate 10 34
+unite_fleets 3 3
+unite_fleets 7 9
+get_pirate_money 7
+unite_fleets 1 7
+add_fleet -2
+get_pirate_money 4
+add_fleet 5
+num_ships_for_fleet 4
+pirate_argument 1 1
+get_pirate_money 6
+get_pirate_money 2
+unite_fleets 7 8
+num_ships_for_fleet 10
+unite_fleets 2 0
+pirate_argument 10 9
+pirate_argument 1 10
+pirate_argument 0 4
+pay_pirate 5 52
+num_ships_for_fleet 6
+num_ships_for_fleet -2
+pirate_argument 3 6
+add_pirate 10 10
+pay_pirate -1 79
+add_fleet 6
+get_pirate_money 8
+pirate_argument -2 -1
+get_pirate_money -2
+get_pirate_money -1
+unite_fleets 1 0
+unite_fleets 2 7
+pay_pirate 5 94
+num_ships_for_fleet 9
+pay_pirate 3 95
+add_pirate 10 7
+get_pirate_money 6
+pirate_argument 7 3
+unite_fleets 5 2
+pirate_argument -2 4
+num_ships_for_fleet 4
+add_fleet 8
+pirate_argument 4 3
+num_ships_for_fleet 5
+pay_pirate 9 47
+pirate_argument 5 10
+num_ships_for_fleet 10
+pay_pirate -1 2
+add_pirate 0 8
+pirate_argument 10 5
+add_pirate -2 9
+add_fleet -1
+add_pirate 0 -2
+pay_pirate 0 66
+pirate_argument 2 3
+num_ships_for_fleet 2
+pay_pirate 6 56
+add_fleet 9
+num_ships_for_fleet 6
+pay_pirate 9 65
+unite_fleets 6 8
+pirate_argument 10 -1
+pirate_argument 7 6
+unite_fleets -2 -1
+unite_fleets 10 -1
+num_ships_for_fleet 2
+add_fleet 9
+unite_fleets 10 0
+num_ships_for_fleet 3
+pirate_argument 5 9
+add_fleet 0
+num_ships_for_fleet 4
+add_fleet 9
+pirate_argument 5 -2
+unite_fleets 10 8
+add_fleet 10
+unite_fleets -2 -2
+unite_fleets 0 1
+add_fleet 8
+add_fleet 7
+pirate_argument 4 9
+add_pirate 9 7
+pirate_argument 2 0
+pay_pirate 3 94
+pirate_argument -2 2
+pirate_argument 1 4
+add_fleet 9
+add_fleet 5
+pirate_argument -1 0
+get_pirate_money 3
+get_pirate_money 5
+add_pirate 8 7
+pay_pirate 6 76
+add_fleet 5
+unite_fleets 3 1
+add_pirate 8 7
+add_pirate 2 6
+num_ships_for_fleet -2
+num_ships_for_fleet -2
+num_ships_for_fleet 1
+unite_fleets 7 7
+add_fleet 1
+pay_pirate -2 27
+unite_fleets 10 -1
+unite_fleets 4 10
+pay_pirate 3 52
+unite_fleets 8 10
+num_ships_for_fleet 3
+unite_fleets 8 5
+pirate_argument -1 8
+pay_pirate 7 12
+get_pirate_money 6
+unite_fleets 9 8
+get_pirate_money 1
+add_fleet 4
+add_fleet 4
+get_pirate_money -1
+num_ships_for_fleet 1
+unite_fleets 9 9
+unite_fleets 0 3
+pirate_argument 0 7
+get_pirate_money 4
+pay_pirate 5 44
+add_pirate 4 5
+get_pirate_money -1
+pirate_argument 1 1
+add_fleet 4
+pirate_argument 1 -2
+pirate_argument 3 10
+add_fleet -1
+add_fleet 0
+unite_fleets 9 7
+num_ships_for_fleet -2
+pirate_argument 5 -1
+pay_pirate 9 34
+get_pirate_money 5
+pay_pirate 2 32
+unite_fleets 2 10
+get_pirate_money 0
+pay_pirate 5 51
+add_fleet 2
+add_fleet 1
+get_pirate_money -2
+pay_pirate 4 21
+unite_fleets 2 10
+add_pirate 4 8
+pay_pirate 0 58
+num_ships_for_fleet 2
+pay_pirate 5 45
+pay_pirate -2 33
+pirate_argument 6 3
+unite_fleets 10 1
+add_fleet 7
+get_pirate_money 7
+num_ships_for_fleet 0
+pirate_argument 6 10
+pay_pirate 3 46
+pirate_argument 10 7
+add_pirate 2 5
+get_pirate_money 4
+pay_pirate 1 48
+add_fleet 10
+add_pirate 7 3
+get_pirate_money 3
+add_fleet 7
+unite_fleets -2 3
+pay_pirate 9 85
+pay_pirate 3 29
+unite_fleets 10 8
+add_pirate 10 3
+add_pirate 7 -1
+pay_pirate 6 26
+get_pirate_money 3
+pay_pirate -2 35
+pirate_argument -2 3
+num_ships_for_fleet 3
+num_ships_for_fleet 2
+unite_fleets 5 9
+add_fleet -1
+add_fleet 6
+pirate_argument 6 0
+get_pirate_money 9
+add_pirate 1 8
+add_pirate 7 3
+pirate_argument -2 10
+add_pirate 4 7
+unite_fleets 5 0
+pirate_argument 4 10
+pirate_argument -2 3
+pay_pirate 1 98
+add_fleet 2
+num_ships_for_fleet -1
+pay_pirate 4 95
+pay_pirate 5 83
+unite_fleets 7 0
+unite_fleets 3 -1
+unite_fleets -1 0
+num_ships_for_fleet 9
+add_fleet 0
+add_pirate 8 1
+get_pirate_money 7
+add_fleet 7
+get_pirate_money -1
+get_pirate_money 7
+pirate_argument 10 5
+add_fleet 1
+unite_fleets 2 4
+add_fleet 9
+unite_fleets 3 3
+num_ships_for_fleet 6
+pirate_argument 5 10
+num_ships_for_fleet -2
+unite_fleets 5 -2
+num_ships_for_fleet -1
+add_pirate 8 -2
+add_fleet 6
+add_pirate 9 1
+unite_fleets -1 3
+get_pirate_money 6
+unite_fleets 2 6
+unite_fleets 1 4
+pay_pirate 2 66
+add_pirate 5 3
+pirate_argument 2 2
+pay_pirate 4 96
+get_pirate_money 7
+add_pirate 1 10
+add_fleet 5
+pay_pirate 6 83
+add_fleet 10
+num_ships_for_fleet 0
+pay_pirate -2 78
+get_pirate_money 5
+pay_pirate 3 50
+pirate_argument 6 9
+pirate_argument 10 6
+pay_pirate 10 74
+unite_fleets 10 3
+pay_pirate 8 76
+unite_fleets -2 10
+add_fleet 1
+get_pirate_money -1
+unite_fleets 2 10
+pirate_argument 4 0
+num_ships_for_fleet 9
+pirate_argument 7 1
+get_pirate_money 5
+pay_pirate 0 67
+pirate_argument 8 0
+pay_pirate 0 75
+get_pirate_money 10
+pirate_argument 1 10
+pirate_argument 5 7
+unite_fleets 6 3
+num_ships_for_fleet 5
+unite_fleets 4 0
+add_fleet -1
+get_pirate_money 4
+add_pirate 2 3
+num_ships_for_fleet 0
+pay_pirate 8 81
+get_pirate_money 3
+num_ships_for_fleet 7
+num_ships_for_fleet -2
+unite_fleets 3 5
+pay_pirate 9 21
+add_fleet 8
+num_ships_for_fleet 9
+pirate_argument 3 6
+pirate_argument 7 4
+num_ships_for_fleet -2
+unite_fleets 9 1
+pay_pirate 9 2
+get_pirate_money -2
+pirate_argument 2 3
+pirate_argument -2 0
+get_pirate_money 6
+add_pirate 4 7
+get_pirate_money -1
+add_pirate 4 -1
+unite_fleets 10 -1
+get_pirate_money 6
+pirate_argument -1 5
+add_fleet 2
+unite_fleets 8 1
+pirate_argument 2 -2
+num_ships_for_fleet 5
+unite_fleets 0 5
+num_ships_for_fleet 4
+pay_pirate 9 8
+pirate_argument 10 10
+unite_fleets 0 10
+add_fleet -2
+unite_fleets -1 3
+unite_fleets 6 8
+pirate_argument 2 1
+num_ships_for_fleet 3
+add_fleet -2
+add_pirate -1 2
+add_fleet 7
+num_ships_for_fleet 10
+pay_pirate 4 3
+add_fleet 2
+pirate_argument 1 -1
+add_pirate 7 3
+pay_pirate 5 65
+pirate_argument 7 -2
+pay_pirate 3 99
+num_ships_for_fleet 10
+num_ships_for_fleet 9
+add_pirate 0 1
+add_fleet 6
+add_pirate 9 -2
+pay_pirate 8 22
+pay_pirate -1 7
+unite_fleets -2 7
+get_pirate_money 4
+get_pirate_money 6
+unite_fleets 6 10
+get_pirate_money 1
+pay_pirate 4 40
+add_fleet 10
+num_ships_for_fleet 0
+num_ships_for_fleet 4
+pirate_argument -1 5
+pay_pirate 3 91
+add_pirate 0 8
+get_pirate_money 4
+pirate_argument 1 5
+num_ships_for_fleet 6
+add_pirate 2 2
+pay_pirate 7 74
+pirate_argument 0 -1
+add_fleet -2
+pay_pirate 4 69
+unite_fleets 3 4
+pay_pirate 8 62
+pirate_argument 4 3
+add_pirate 4 8
+unite_fleets 4 9
+pirate_argument 8 -1
+add_fleet -2
+get_pirate_money 9
+get_pirate_money 7
+add_fleet 1
+pay_pirate 2 87
+add_pirate 10 7
+get_pirate_money 7
+add_pirate 4 -1
+add_fleet 1
+get_pirate_money 2
+pirate_argument -1 2
+pay_pirate 4 70
+num_ships_for_fleet 9
+add_fleet 0
+get_pirate_money 0
+pay_pirate 1 95
+add_pirate 8 3
+unite_fleets 10 0
+add_fleet 7
+pirate_argument 2 10
+add_fleet 2
+pay_pirate 5 1
+add_fleet 9
+pay_pirate 4 95
+pirate_argument 9 5
+pay_pirate 4 -2
+pirate_argument 1 5
+unite_fleets 1 -2
+unite_fleets 9 4
+add_pirate -1 8
+unite_fleets 3 2
+pay_pirate 6 48
+add_pirate 2 2
+unite_fleets 4 10
+get_pirate_money 7
+num_ships_for_fleet 7
+unite_fleets -1 5
+pirate_argument 0 8
+num_ships_for_fleet 7
+pay_pirate 7 8
+add_fleet 10
+get_pirate_money 7
+pay_pirate 6 6
+pirate_argument 10 7
+pirate_argument 2 6
+num_ships_for_fleet 1
+pirate_argument 10 -2
+pirate_argument 5 8
+get_pirate_money 7
+pay_pirate 1 49
+add_pirate -1 5
+add_pirate -1 9
+num_ships_for_fleet 2
+add_pirate 1 2
+add_pirate 2 3
+unite_fleets 6 6
+pirate_argument 1 9
+num_ships_for_fleet 7
+unite_fleets 8 -2
+pay_pirate 7 40
+pirate_argument 5 5
+pirate_argument 6 0
+get_pirate_money 8
+add_pirate 2 3
+unite_fleets 3 5
+add_fleet -1
+pirate_argument 2 1
+num_ships_for_fleet 1
+add_pirate 3 -1
+add_fleet 6
+pay_pirate 5 39
+pay_pirate 3 83
+pirate_argument 10 1
+num_ships_for_fleet 5
+add_fleet 3
+unite_fleets 4 4
+add_fleet -1
+num_ships_for_fleet 5
+num_ships_for_fleet 5
+unite_fleets 10 3
+add_pirate 4 10
+unite_fleets 0 10
+add_pirate 2 10
+add_fleet 1
+pay_pirate -2 16
+pay_pirate 3 56
+num_ships_for_fleet -2
+pay_pirate 3 19
+num_ships_for_fleet 7
+num_ships_for_fleet 4
+unite_fleets 10 9
+num_ships_for_fleet 10
+add_fleet -1
+add_pirate 8 -1
+pay_pirate 0 34
+add_pirate -1 6
+unite_fleets 7 7
+add_pirate 2 7
+pirate_argument 1 10
+pirate_argument 10 0
+get_pirate_money 4
+add_pirate 2 4
+num_ships_for_fleet 3
+add_fleet 0
+add_fleet 3
+get_pirate_money 6
+unite_fleets -1 5
+unite_fleets 6 10
+add_pirate 1 10
+add_pirate 3 0
+add_pirate 8 2
+unite_fleets 8 1
+add_pirate 2 3
+add_pirate 8 -1
+unite_fleets 3 1
+num_ships_for_fleet 9
+unite_fleets 0 8
+pay_pirate 6 27
+unite_fleets -1 9
+pirate_argument 2 6
+unite_fleets 2 0
+unite_fleets 2 3
+pay_pirate 3 7
+pirate_argument 7 9
+pay_pirate -2 14
+pirate_argument 2 -2
+num_ships_for_fleet 9
+num_ships_for_fleet 4
+get_pirate_money 10
+add_fleet 1
+add_fleet -1
+get_pirate_money 1
+get_pirate_money 4
+pay_pirate 4 78
+unite_fleets 3 5
+unite_fleets 8 7
+pirate_argument 3 -2
+num_ships_for_fleet 1
+pay_pirate 4 88
+num_ships_for_fleet 7
+pirate_argument 3 9
+pirate_argument 3 5
+add_pirate 8 -1
+get_pirate_money 4
+pay_pirate 5 76
+pay_pirate 6 0
+num_ships_for_fleet 9
+add_pirate 2 1
+pay_pirate 5 3
+get_pirate_money 2
+add_pirate 2 1
+pay_pirate 2 10
+add_fleet -2
+add_pirate 1 -2
+unite_fleets 9 0
+num_ships_for_fleet 7
+add_pirate -1 9
+num_ships_for_fleet 8
+num_ships_for_fleet -2
+pirate_argument 8 6
+num_ships_for_fleet 2
+add_pirate 4 10
+num_ships_for_fleet 3
+add_pirate 6 10
+pirate_argument 3 3
+add_pirate -2 3
+pirate_argument 5 9
+unite_fleets 3 0
+add_pirate 6 5
+pirate_argument 4 4
+unite_fleets 1 7
+add_fleet 6
+get_pirate_money 5
+pay_pirate 0 66
+add_fleet 5
+num_ships_for_fleet -2
+pay_pirate 1 52
+get_pirate_money -1
+add_fleet 5
+pirate_argument 2 2
+add_fleet 8
+get_pirate_money 7
+add_pirate -1 5
+add_fleet -1
+unite_fleets -1 1
+unite_fleets 7 9
+get_pirate_money -2
+get_pirate_money 9
+pirate_argument 9 2
+num_ships_for_fleet 2
+add_pirate 8 9
+pay_pirate 1 13
+pirate_argument 6 -1
+unite_fleets 3 -1
+get_pirate_money 1
+num_ships_for_fleet 5
+pay_pirate 8 39
+pay_pirate 7 15
+get_pirate_money 7
+add_fleet 9
+num_ships_for_fleet 0
+add_fleet 9
+get_pirate_money -2
+unite_fleets 1 6
+pirate_argument 10 -1
+pay_pirate 5 89
+add_pirate 5 7
+add_pirate 6 3
+add_pirate 8 -2
+add_fleet 4
+add_pirate 5 7
+unite_fleets 7 9
+get_pirate_money 8
+get_pirate_money -2
+add_pirate -2 8
+num_ships_for_fleet 5
+pirate_argument 4 0
+pirate_argument -2 3
+num_ships_for_fleet -2
+get_pirate_money 0
+pay_pirate 2 21
+add_fleet 4
+pirate_argument 0 -2
+get_pirate_money 0
+unite_fleets 9 9
+num_ships_for_fleet 7
+unite_fleets 10 8
+unite_fleets 5 8
+pay_pirate 5 48
+pirate_argument 6 3
+unite_fleets 8 -2
+add_pirate 9 2
+num_ships_for_fleet 4
+add_pirate 5 9
+pirate_argument 6 4
+num_ships_for_fleet 5
+num_ships_for_fleet -2
+unite_fleets 1 9
+add_fleet 1
+get_pirate_money 8
+add_pirate 7 5
+pay_pirate 4 89
+num_ships_for_fleet 8
+add_pirate 0 2
+pirate_argument 0 1
+pirate_argument -1 10
+pirate_argument 9 4
+num_ships_for_fleet 3
+num_ships_for_fleet -2
+get_pirate_money 6
+num_ships_for_fleet 7
+add_pirate 6 7
+num_ships_for_fleet 3
+get_pirate_money 7
+add_pirate 2 1
+get_pirate_money 10
+add_pirate 6 0
+pirate_argument -2 8
+unite_fleets 5 5
+num_ships_for_fleet 1
+pay_pirate 7 69
+unite_fleets 4 4
+pirate_argument -1 8
+pirate_argument 1 6
+unite_fleets 3 5
+unite_fleets 6 4
+get_pirate_money 3
+add_pirate 1 10
+add_fleet -1
+pay_pirate 5 46
+num_ships_for_fleet 1
+num_ships_for_fleet 2
+pirate_argument 0 4
+add_fleet 8
+get_pirate_money -2
+add_fleet 0
+pay_pirate 0 43
+add_fleet -1
+add_pirate 9 5
+add_fleet 5
+pay_pirate -1 59
+num_ships_for_fleet -1
+pirate_argument 2 7
+unite_fleets 6 9
+pirate_argument 9 -1
+add_pirate 9 -1
+get_pirate_money 6
+add_pirate 3 3
+pay_pirate 10 97
+add_fleet 3
+unite_fleets 2 2
+pay_pirate 9 10
+add_fleet 10
+pirate_argument 3 10
+num_ships_for_fleet 3
+add_pirate 0 7
+get_pirate_money 9
+unite_fleets 2 1
+add_fleet 1
+get_pirate_money -2
+pay_pirate 7 57
+add_pirate -2 3
+add_pirate 4 1
+add_pirate 5 8
+pirate_argument 10 10
+get_pirate_money 7
+get_pirate_money 2
+get_pirate_money 2
+unite_fleets 2 4
+num_ships_for_fleet -1
+pay_pirate 9 82
+add_fleet 4
+num_ships_for_fleet 2
+pay_pirate 7 23
+get_pirate_money 5
+pay_pirate -2 -1
+add_fleet 4
+pay_pirate 4 50
+pay_pirate 2 96
+num_ships_for_fleet 0
+add_pirate 6 9
+pirate_argument -1 -1
+pirate_argument 5 9
+num_ships_for_fleet -1
+pirate_argument 5 0
+add_fleet 5
+unite_fleets 4 4
+pay_pirate 5 29
+unite_fleets 1 5
+num_ships_for_fleet 0
+num_ships_for_fleet 8
+unite_fleets 3 10
+add_pirate 7 6
+get_pirate_money 8
+num_ships_for_fleet 5
+add_pirate 1 2
+num_ships_for_fleet 5
+unite_fleets 1 0
+add_pirate 7 4
+unite_fleets 7 5
+num_ships_for_fleet 8
+pirate_argument 6 9
+pirate_argument 8 7
+unite_fleets 2 9
+unite_fleets 9 3
+unite_fleets 0 2
+pirate_argument 1 3
+unite_fleets -2 -1
+unite_fleets -2 6
+get_pirate_money 10
+num_ships_for_fleet -1
+pirate_argument 5 6
+add_pirate 10 0
+pirate_argument 0 5
+get_pirate_money 3
+add_pirate 5 3
+unite_fleets 8 -2
+num_ships_for_fleet 2
+add_pirate -2 6
+unite_fleets -1 8
+add_pirate 9 3
+add_fleet 0
+add_pirate 5 0
+unite_fleets 5 0
+pay_pirate 10 56
+num_ships_for_fleet 0
+num_ships_for_fleet 9
+num_ships_for_fleet 7
+pirate_argument 0 7
+pirate_argument 8 10
+add_fleet 0
+num_ships_for_fleet 2
+pirate_argument 6 -2
+get_pirate_money 7
+pay_pirate 4 97
+pay_pirate 8 98
+pay_pirate 1 4
+pirate_argument 10 9
+pirate_argument 6 2
+pay_pirate 6 43
+num_ships_for_fleet 4
+add_pirate 3 0
+add_fleet 9
+pay_pirate 5 42
+add_pirate -2 6
+unite_fleets -1 10
+get_pirate_money 10
+get_pirate_money 5
+add_fleet 10
+pay_pirate 1 85
+unite_fleets 5 1
+pay_pirate 2 42
+add_fleet 6
+get_pirate_money -2
+get_pirate_money 1
+pirate_argument -1 6
+pay_pirate -2 27
+pay_pirate 8 49
+get_pirate_money 7
+add_fleet 1
+add_fleet 8
+num_ships_for_fleet 8
+num_ships_for_fleet 5
+pirate_argument 5 0
+add_pirate 9 5
+unite_fleets 1 2
+add_pirate 5 10
+add_fleet 6
+pirate_argument 0 -2
+add_pirate 6 1
+pay_pirate -1 91
+add_pirate 7 7
+num_ships_for_fleet 0
+pirate_argument 10 9
+add_pirate 5 6
+add_pirate 6 5
+get_pirate_money 5
+get_pirate_money 2
+unite_fleets 7 3
+add_pirate -1 10
+num_ships_for_fleet 1
+add_pirate 1 0
+add_fleet 7
+get_pirate_money 7
+unite_fleets 8 4
+add_pirate -2 1
+unite_fleets -1 3
+add_pirate -1 2
+pirate_argument 8 2
+pirate_argument 4 9
+unite_fleets 2 0
+unite_fleets 9 5
+add_fleet -1
+pay_pirate -2 96
+pirate_argument 5 -2
+unite_fleets 10 8
+num_ships_for_fleet 1
+unite_fleets 4 10
+add_fleet 2
+pirate_argument 0 1
+add_pirate 8 -2
+add_pirate 4 2
+num_ships_for_fleet 8
+pay_pirate 4 40
+add_pirate 4 7
+num_ships_for_fleet 4
+add_fleet 6
+pirate_argument 5 6
+add_pirate 8 1
+num_ships_for_fleet 10
+unite_fleets 0 8
+pay_pirate 5 76
+pay_pirate -2 94
+unite_fleets 6 7
+add_fleet 8
+num_ships_for_fleet 0
+get_pirate_money 3
+get_pirate_money -2
+add_pirate 8 -2
+unite_fleets 8 4
+get_pirate_money 5
+pay_pirate 3 79
+pay_pirate 2 43
+pirate_argument 7 4
+pirate_argument 3 8
+get_pirate_money 2
+num_ships_for_fleet 1
+add_pirate 6 5
+pirate_argument -2 8
+num_ships_for_fleet 6
+pirate_argument -2 0
+unite_fleets 3 8
+unite_fleets 2 8
+pay_pirate 7 70
+pay_pirate 5 15
+add_fleet -1
+add_fleet 7
+pay_pirate 3 32
+unite_fleets 9 10
+add_pirate 5 6
+unite_fleets 7 5
+pay_pirate 1 29
+pirate_argument 3 7
+add_fleet 3
+get_pirate_money -2
+add_pirate 6 3
+get_pirate_money 1
+unite_fleets 7 1
+pirate_argument 6 1
+add_fleet 7
+get_pirate_money 9
+unite_fleets -2 4
+num_ships_for_fleet 4
+add_pirate -2 3
+num_ships_for_fleet 7
+pirate_argument 7 5
+pirate_argument 10 5
+num_ships_for_fleet 0
+get_pirate_money 7
+pay_pirate 3 15
+add_fleet 6
+add_pirate 4 7
+num_ships_for_fleet 6
+pay_pirate -1 70
+pirate_argument 9 10
+add_fleet 4
+add_fleet -2
+get_pirate_money 5
+add_pirate 6 6
+unite_fleets 4 10
+add_fleet 0
+get_pirate_money 0
+get_pirate_money 0
+add_pirate 9 9
+add_pirate 1 -2
+add_pirate 8 1
+num_ships_for_fleet -2
+num_ships_for_fleet 1
+num_ships_for_fleet 0
+pay_pirate -1 35
+num_ships_for_fleet 9
+get_pirate_money 5
+pay_pirate 1 -2
+unite_fleets 10 4
+pay_pirate 7 53
+add_fleet 6
+pay_pirate 5 44
+num_ships_for_fleet -1
+pay_pirate 8 42
+num_ships_for_fleet -1
+unite_fleets 10 9
+add_fleet 3
+pirate_argument 8 8
+pirate_argument 1 4
+add_pirate -2 1
+pay_pirate 0 41
+get_pirate_money 8
+unite_fleets 7 0
+unite_fleets 0 3
+add_fleet 10
+unite_fleets 3 1
+add_pirate 3 4
+unite_fleets 9 2
+add_fleet 7
+num_ships_for_fleet -1
+add_fleet 4
+num_ships_for_fleet 8
+add_fleet -2
+num_ships_for_fleet 9
+pirate_argument 10 9
+unite_fleets 5 3
+pirate_argument 1 1
+get_pirate_money 8
+pay_pirate 5 51
+unite_fleets 5 6
+num_ships_for_fleet -1
+add_pirate 1 6
+get_pirate_money 0
+pay_pirate 10 -1
+pirate_argument 5 0
+pay_pirate 5 98
+get_pirate_money -1
+add_pirate 1 1
+unite_fleets 10 8
+get_pirate_money 7
+unite_fleets 2 3
+num_ships_for_fleet 7
+pirate_argument 0 4
+add_fleet 7
+num_ships_for_fleet -2
+add_pirate 3 8
+pay_pirate 7 61
+add_pirate 5 1
+add_pirate 1 3
+add_fleet 8
+add_fleet 8
+pay_pirate 2 29
+pay_pirate 4 17
+pirate_argument 9 3
+add_fleet -2
+num_ships_for_fleet -1
+add_pirate -1 3
+add_pirate 6 4
+pirate_argument 7 10
+pirate_argument 4 3
+num_ships_for_fleet -2
+pay_pirate 0 42
+add_pirate 2 1
+num_ships_for_fleet 4
+add_fleet -1
+pirate_argument 4 5
+num_ships_for_fleet 4
+get_pirate_money 8
+num_ships_for_fleet 5
+num_ships_for_fleet 4
+get_pirate_money 10
+get_pirate_money 8
+add_fleet 7
+pay_pirate 10 95
+add_fleet 2
+num_ships_for_fleet 1
+num_ships_for_fleet -1
+pirate_argument 5 9
+get_pirate_money 8
+unite_fleets 7 10
+add_pirate 1 6
+pirate_argument 9 -2
+pirate_argument 7 9
+add_fleet 4
+num_ships_for_fleet 1
+add_pirate 5 1
+pirate_argument 1 2
+get_pirate_money 10
+pay_pirate -1 19
+pirate_argument 9 2
+pirate_argument 0 4
+add_pirate -1 -2
+num_ships_for_fleet 6
+unite_fleets 4 3
+pay_pirate -1 73
+unite_fleets 10 9
+pay_pirate 4 97
+pirate_argument 10 8
+pirate_argument 6 4
+pirate_argument 4 8
+pay_pirate -2 38
+add_pirate 1 3
+add_fleet 7
+add_fleet 8
+num_ships_for_fleet 2
+num_ships_for_fleet 4
+add_fleet 3
+get_pirate_money -2
+add_fleet 10
+unite_fleets 10 -2
+pay_pirate 2 66
+num_ships_for_fleet 8
+unite_fleets 9 4
+pirate_argument -2 3
+unite_fleets -2 6
+num_ships_for_fleet 0
+pirate_argument 3 -1
+num_ships_for_fleet 9
+unite_fleets 7 4
+unite_fleets 3 10
+num_ships_for_fleet 9
+pay_pirate 3 64
+add_fleet 9
+add_fleet 1
+unite_fleets 0 5
+unite_fleets 0 8
+pirate_argument -2 8
+add_pirate -1 1
+num_ships_for_fleet 0
+pirate_argument 4 9
+num_ships_for_fleet 2
+add_pirate 2 -1
+pirate_argument 0 5
+unite_fleets 9 4
+num_ships_for_fleet 6
+add_fleet 9
+pirate_argument 9 4
+pay_pirate 4 71
+add_fleet 10
+pay_pirate 1 97
+get_pirate_money 3
+num_ships_for_fleet -2
+pay_pirate 6 98
+unite_fleets 10 9
+unite_fleets 2 5
+add_pirate 8 8
+pirate_argument 1 5
+num_ships_for_fleet 2
+add_pirate 3 2
+add_fleet -2
+pirate_argument 8 4
+pirate_argument 1 0
+num_ships_for_fleet 2
+pay_pirate 1 70
+pay_pirate 5 30
+get_pirate_money 9
+get_pirate_money 5
+add_fleet 9
+num_ships_for_fleet -2
+get_pirate_money 4
+add_fleet 3
+num_ships_for_fleet -2
+num_ships_for_fleet 5
+pay_pirate 3 94
+unite_fleets 7 10
+pay_pirate 10 26
+unite_fleets -1 0
+get_pirate_money 2
+add_pirate 7 3
+get_pirate_money 5
+add_fleet 0
+pay_pirate 9 28
+unite_fleets 1 -2
+add_fleet 4
+pay_pirate 5 62
+unite_fleets -1 2
+get_pirate_money 5
+add_fleet 0
+get_pirate_money 5
+pirate_argument -2 8
+num_ships_for_fleet 7
+num_ships_for_fleet 5
+unite_fleets 5 6
+unite_fleets 4 7
+get_pirate_money 2
+num_ships_for_fleet 4
+pay_pirate 7 24
+add_fleet 7
+add_pirate 4 7
+add_fleet 6
+pay_pirate 7 4
+unite_fleets 10 8
+add_fleet 2
+pirate_argument -1 5
+pay_pirate 5 12
+pirate_argument 2 -2
+pay_pirate 2 38
+pay_pirate 5 1
+get_pirate_money 9
+unite_fleets 9 6
+get_pirate_money 0
+add_fleet 8
+pirate_argument 3 5
+pay_pirate 7 75
+pay_pirate 6 18
+pay_pirate 2 42
+add_fleet -2
+pirate_argument 9 1
+add_pirate 7 6
+add_fleet 10
+pay_pirate 2 99
+num_ships_for_fleet 3
+pirate_argument 2 9
+pirate_argument 6 8
+add_pirate 5 -1
+pirate_argument 4 3
+pay_pirate 2 5
+pay_pirate 8 62
+pirate_argument 8 5
+pay_pirate 4 81
+unite_fleets -1 3
+num_ships_for_fleet 10
+num_ships_for_fleet 6
+add_pirate 7 -2
+pay_pirate 3 5
+get_pirate_money -2
+add_pirate -2 2
+num_ships_for_fleet 1
+add_fleet 9
+add_fleet 9
+add_fleet 9
+pirate_argument 10 7
+pirate_argument 2 4
+pay_pirate 10 20
+pirate_argument 10 6
+add_pirate 5 -2
+add_pirate 10 9
+pay_pirate 3 77
+add_fleet 9
+get_pirate_money 5
+unite_fleets 8 1
+add_fleet 6
+pay_pirate 9 77
+get_pirate_money 6
+get_pirate_money -2
+num_ships_for_fleet 5
+unite_fleets 3 5
+num_ships_for_fleet 3
+add_pirate 4 4
+pirate_argument 7 7
+num_ships_for_fleet 3
+num_ships_for_fleet 4
+unite_fleets 1 1
+add_fleet 9
+add_fleet 5
+num_ships_for_fleet 0
+get_pirate_money -2
+add_fleet 1
+pirate_argument 2 8
+unite_fleets 4 9
+unite_fleets 0 2
+unite_fleets -1 3
+unite_fleets 10 1
+add_fleet 9
+add_fleet 10
+add_pirate 0 8
+pay_pirate 4 54
+unite_fleets 5 10
+unite_fleets 5 10
+add_fleet 1
+pirate_argument 0 9
+num_ships_for_fleet 3
+pay_pirate 1 51
+num_ships_for_fleet 0
+add_fleet 6
+add_pirate 0 1
+add_pirate 5 -2
+pirate_argument 8 0
+add_pirate 4 3
+get_pirate_money 3
+pay_pirate 3 65
+num_ships_for_fleet 5
+pirate_argument 1 -1
+add_pirate 6 4
+add_fleet 9
+pay_pirate 1 28
+add_fleet 0
+add_pirate 10 9
+num_ships_for_fleet 1
+pirate_argument -1 4
+num_ships_for_fleet 2
+add_pirate 0 -2
+pirate_argument -2 2
+pay_pirate 8 27
+unite_fleets 8 4
+unite_fleets 2 4
+add_pirate -1 -2
+add_fleet 4
+add_pirate -1 8
+add_pirate 7 6
+add_fleet -2
+get_pirate_money 3
+num_ships_for_fleet 0
+add_fleet 4
+add_pirate 0 -1
+get_pirate_money 9
+pirate_argument 8 2
+add_pirate 4 8
+num_ships_for_fleet -1
+num_ships_for_fleet 1
+unite_fleets 4 3
+num_ships_for_fleet 5
+unite_fleets 9 7
+add_fleet 7
+add_fleet 0
+pay_pirate 0 21
+pay_pirate 0 23
+pirate_argument 10 -2
+pay_pirate 10 24
+unite_fleets 3 8
+unite_fleets 8 -2
+get_pirate_money 5
+add_fleet 10
+pirate_argument 2 8
+add_pirate 2 8
+num_ships_for_fleet 7
+add_pirate 8 10
+num_ships_for_fleet 2
+add_pirate 3 10
+get_pirate_money 7
+pirate_argument 9 9
+unite_fleets -1 5
+add_fleet 2
+add_pirate 5 7
+pirate_argument 5 4
+pirate_argument 4 9
+pay_pirate 9 0
+add_pirate 8 0
+unite_fleets 0 0
+unite_fleets 9 10
+get_pirate_money 9
+add_pirate 2 8
+add_pirate 3 1
+pay_pirate 5 74
+num_ships_for_fleet -2
+add_fleet 6
+add_pirate 5 3
+get_pirate_money 0
+pay_pirate -2 43
+num_ships_for_fleet -2
+pay_pirate 1 25
+num_ships_for_fleet 3
+pay_pirate 3 60
+pay_pirate 5 29
+pay_pirate 6 14
+add_pirate 7 0
+unite_fleets 4 5
+add_fleet 1
+add_fleet 5
+num_ships_for_fleet 6
+pirate_argument 4 -1
+get_pirate_money 6
+pirate_argument 6 0
+add_fleet 1
+pay_pirate 0 48
+add_fleet 7
+num_ships_for_fleet 4
+add_pirate 9 -2
+pay_pirate 10 5
+pirate_argument 1 5
+get_pirate_money 0
+pirate_argument 1 2
+add_pirate 2 -2
+add_pirate 6 4
+add_pirate 3 1
+add_fleet 6
+add_fleet 10
+add_pirate 4 7
+pay_pirate 7 74
+num_ships_for_fleet 3
+get_pirate_money -1
+pirate_argument 9 5
+num_ships_for_fleet 0
+pirate_argument 8 5
+pay_pirate 4 33
+add_fleet 3
+pirate_argument 3 7
+num_ships_for_fleet 10
+unite_fleets 5 5
+add_pirate 0 -1
+unite_fleets 2 10
+get_pirate_money 10
+pirate_argument 3 -2
+pay_pirate 10 59
+add_pirate 9 0
+pirate_argument -2 0
+pay_pirate 4 22
+get_pirate_money -2
+add_pirate 0 -2
+unite_fleets -1 8
+num_ships_for_fleet 9
+add_fleet 4
+pirate_argument 9 7
+add_fleet 6
+num_ships_for_fleet 1
+pirate_argument 1 7
+get_pirate_money 5
+get_pirate_money 2
+unite_fleets 6 1
+add_fleet -1
+get_pirate_money 10
+num_ships_for_fleet 9
+add_pirate 0 4
+num_ships_for_fleet 5
+pirate_argument 1 6
+pirate_argument 3 3
+pirate_argument 9 3
+get_pirate_money 0
+unite_fleets -1 3
+unite_fleets 8 7
+add_fleet 8
+num_ships_for_fleet -2
+unite_fleets 6 6
+num_ships_for_fleet 1
+pirate_argument 9 10
+num_ships_for_fleet 10
+get_pirate_money 10
+pay_pirate 1 59
+add_pirate 5 0
+get_pirate_money -2
+add_pirate 3 3
+unite_fleets 5 0
+get_pirate_money 10
+get_pirate_money 2
+pirate_argument 7 2
+get_pirate_money 5
+unite_fleets 8 -2
+get_pirate_money -1
+num_ships_for_fleet 10
+get_pirate_money 6
+unite_fleets 1 1
+pay_pirate 1 63
+unite_fleets 5 7
+add_fleet 7
+add_pirate 5 5
+add_fleet 9
+add_fleet 6
+num_ships_for_fleet 2
+unite_fleets 9 7
+num_ships_for_fleet 9
+pirate_argument 8 6
+unite_fleets 0 -1
+pay_pirate 7 60
+unite_fleets 7 9
+add_pirate 4 5
+add_pirate 2 -2
+num_ships_for_fleet 3
+add_fleet 2
+add_fleet 8
+unite_fleets 3 0
+pay_pirate -1 71
+pay_pirate 8 97
+add_fleet 2
+add_pirate 10 10
+pirate_argument 7 0
+pay_pirate 7 19
+add_fleet 5
+get_pirate_money 10
+num_ships_for_fleet -1
+pay_pirate 9 24
+pirate_argument 6 3
+pay_pirate 4 53
+get_pirate_money 3
+add_pirate 6 -2
+add_fleet 8
+pay_pirate 10 96
+get_pirate_money -2
+pirate_argument 0 5
+get_pirate_money 5
+pay_pirate 8 0
+get_pirate_money 9
+unite_fleets -1 1
+unite_fleets 3 5
+num_ships_for_fleet 8
+add_fleet 4
+num_ships_for_fleet 8
+pirate_argument 7 3
+pirate_argument 3 7
+pay_pirate -1 3
+add_fleet 6
+num_ships_for_fleet 8
+add_pirate 8 7
+unite_fleets 10 8
+unite_fleets 0 2
+num_ships_for_fleet 1
+num_ships_for_fleet 0
+add_pirate 0 3
+unite_fleets 2 1
+pay_pirate 8 17
+unite_fleets -1 9
+unite_fleets -2 2
+num_ships_for_fleet 0
+add_pirate 4 2
+pirate_argument 2 1
+get_pirate_money 7
+num_ships_for_fleet 4
+add_fleet 8
+add_fleet 2
+pirate_argument -2 4
+unite_fleets -2 2
+num_ships_for_fleet 6
+get_pirate_money 9
+pirate_argument 2 4
+add_fleet 6
+pirate_argument 8 -2
+get_pirate_money 1
+pirate_argument 8 7
+unite_fleets 10 8
+num_ships_for_fleet 0
+get_pirate_money 1
+unite_fleets 0 7
+add_pirate 5 9
+unite_fleets 1 4
+get_pirate_money 7
+unite_fleets 8 10
+add_pirate 4 4
+add_pirate -1 4
+get_pirate_money 8
+add_pirate 0 0
+num_ships_for_fleet 10
+unite_fleets 3 -1
+add_fleet 6
+add_fleet 6
+pay_pirate 0 26
+add_pirate 7 10
+add_pirate 5 6
+unite_fleets 10 10
+add_fleet 7
+num_ships_for_fleet 2
+pirate_argument 0 10
+unite_fleets -2 3
+pirate_argument 2 6
+add_pirate 7 -1
+num_ships_for_fleet 4
+num_ships_for_fleet 4
+pirate_argument 0 1
+num_ships_for_fleet 0
+num_ships_for_fleet 2
+pay_pirate 1 16
+pay_pirate 0 7
+unite_fleets 8 6
+num_ships_for_fleet 2
+pirate_argument 1 10
+pay_pirate 9 92
+add_pirate 3 6
+add_pirate 4 -2
+add_fleet 7
+pirate_argument 10 2
+pirate_argument 2 9
+pirate_argument 8 6
+add_fleet 4
+pirate_argument 3 8
+num_ships_for_fleet 1
+pirate_argument 5 1
+num_ships_for_fleet -1
+add_pirate -2 3
+add_pirate -1 -2
+pirate_argument 1 5
+get_pirate_money -1
+get_pirate_money 0
+add_pirate 6 1
+get_pirate_money 10
+num_ships_for_fleet -1
+pay_pirate 5 59
+pay_pirate 7 7
+get_pirate_money 9
+num_ships_for_fleet 7
+pirate_argument 3 6
+unite_fleets 9 1
+pay_pirate -2 63
+num_ships_for_fleet 7
+get_pirate_money 0
+get_pirate_money 5
+add_pirate 2 7
+add_pirate 0 -1
+add_pirate 9 2
+pirate_argument -2 7
+pirate_argument 7 -1
+pay_pirate 3 70
+num_ships_for_fleet 1
+pirate_argument 0 6
+pay_pirate 4 52
+add_pirate -1 3
+add_pirate 9 -2
+pirate_argument -2 -1
+get_pirate_money 9
+pirate_argument 6 2
+add_pirate 2 1
+num_ships_for_fleet 3
+pay_pirate 8 65
+unite_fleets 9 -1
+pirate_argument 10 1
+num_ships_for_fleet 8
+add_fleet 6
+pirate_argument 9 1
+num_ships_for_fleet -2
+unite_fleets 6 4
+pay_pirate 7 27
+num_ships_for_fleet 1
+num_ships_for_fleet 5
+pirate_argument 9 6
+get_pirate_money 7
+add_pirate 8 3
+get_pirate_money -1
+add_fleet 0
+add_pirate 3 2
+pay_pirate 2 65
+unite_fleets 6 -1
+add_fleet -2
+add_fleet 0
+get_pirate_money 10
+get_pirate_money 8
+get_pirate_money 9
+num_ships_for_fleet 4
+pay_pirate 0 67
+add_pirate 10 1
+get_pirate_money 5
+unite_fleets 4 -2
+add_fleet 3
+get_pirate_money 10
+pirate_argument 0 1
+pirate_argument 5 10
+add_pirate 8 8
+unite_fleets 5 3
+pay_pirate -2 46
+add_fleet 1
+add_fleet 1
+num_ships_for_fleet 4
+pirate_argument 1 1
+add_pirate 9 8
+add_pirate 6 4
+add_fleet 8
+get_pirate_money 10
+unite_fleets 9 6
+add_pirate 10 -2
+unite_fleets 3 3
+pirate_argument 0 5
+add_pirate 10 8
+pirate_argument 2 8
+add_fleet 7
+add_fleet 8
+get_pirate_money 3
+unite_fleets 9 2
+num_ships_for_fleet 6
+pirate_argument -2 6
+pay_pirate 1 40
+num_ships_for_fleet 8
+unite_fleets 9 3
+add_fleet 1
+add_pirate -2 0
+add_fleet 7
+unite_fleets -2 6
+pirate_argument 6 8
+pirate_argument 3 9
+pay_pirate 10 81
+pirate_argument 2 4
+pay_pirate 4 72
+num_ships_for_fleet 7
+unite_fleets -1 2
+unite_fleets 4 -1
+pirate_argument 3 2
+num_ships_for_fleet 7
+pirate_argument -1 0
+pay_pirate 5 6
+add_pirate 6 9
+add_fleet 6
+unite_fleets -2 4
+num_ships_for_fleet 3
+add_fleet 7
+num_ships_for_fleet -2
+add_pirate -1 10
+unite_fleets 7 5
+add_fleet 4
+pay_pirate -2 22
+unite_fleets 0 -2
+add_fleet -1
+num_ships_for_fleet 1
+add_fleet 3
+add_fleet 10
+pay_pirate 10 64
+unite_fleets 3 4
+pay_pirate 6 12
+add_pirate -2 4
+unite_fleets 10 10
+add_fleet 5
+pay_pirate 5 13
+get_pirate_money 1
+unite_fleets 10 1
+num_ships_for_fleet 0
+add_fleet 4
+unite_fleets 4 3
+unite_fleets 2 8
+pirate_argument -1 8
+unite_fleets 0 3
+unite_fleets -2 4
+pirate_argument 1 0
+num_ships_for_fleet 4
+unite_fleets 10 9
+unite_fleets 7 5
+add_fleet 1
+pirate_argument 6 -2
+add_pirate 10 10
+pirate_argument 8 8
+pirate_argument 4 -1
+add_pirate 5 8
+pay_pirate 9 83
+add_fleet 7
+num_ships_for_fleet 0
+get_pirate_money 7
+num_ships_for_fleet -2
+pay_pirate 8 4
+pay_pirate 10 75
+pirate_argument 6 5
+pirate_argument 6 3
+unite_fleets 5 -1
+unite_fleets 8 8
+get_pirate_money -1
+pirate_argument 1 3
+num_ships_for_fleet 5
+pirate_argument -2 7
+get_pirate_money 2
+get_pirate_money 2
+pay_pirate 6 72
+pay_pirate 7 60
+num_ships_for_fleet 8
+num_ships_for_fleet 6
+unite_fleets 2 2
+pirate_argument 10 3
+add_pirate 3 1
+pay_pirate 10 29
+add_pirate -2 2
+num_ships_for_fleet -1
+pay_pirate 0 23
+pay_pirate 8 41
+add_pirate 7 1
+add_pirate 10 6
+unite_fleets -1 7
+get_pirate_money 2
+num_ships_for_fleet 4
+pirate_argument 2 6
+pirate_argument 6 0
+pirate_argument 9 1
+pay_pirate 9 11
+get_pirate_money 6
+unite_fleets 9 7
+unite_fleets 4 8
+pirate_argument 6 5
+num_ships_for_fleet 3
+get_pirate_money 1
+num_ships_for_fleet 5
+pirate_argument 7 8
+add_pirate 3 5
+unite_fleets 1 9
+get_pirate_money 0
+pirate_argument 10 1
+pirate_argument 10 6
+get_pirate_money 7
+add_pirate 6 8
+unite_fleets 1 5
+pirate_argument 4 0
+add_pirate 4 4
+add_pirate 10 7
+pirate_argument 5 0
+num_ships_for_fleet 5
+unite_fleets 8 2
+add_pirate 1 6
+add_fleet 7
+num_ships_for_fleet -1
+get_pirate_money -2
+pirate_argument 9 1
+add_pirate 4 0
+add_fleet 1
+num_ships_for_fleet -1
+num_ships_for_fleet 10
+get_pirate_money -1
+get_pirate_money 1
+get_pirate_money 5
+pay_pirate 9 2
+pirate_argument 8 5
+get_pirate_money 10
+unite_fleets 5 2
+add_fleet 10
+pirate_argument 3 2
+unite_fleets 10 10
+get_pirate_money 1
+pay_pirate 0 51
+unite_fleets -1 10
+pay_pirate 9 52
+add_pirate 5 -2
+pirate_argument -2 8
+add_pirate 9 1
+add_fleet 10
+num_ships_for_fleet 3
+get_pirate_money 6
+add_pirate -1 6
+add_fleet 1
+pirate_argument 3 10
+add_pirate 4 6
+pay_pirate 5 10
+add_fleet 3
+pay_pirate 9 18
+unite_fleets 3 4
+pay_pirate 8 28
+unite_fleets 8 0
+pay_pirate 6 37
+num_ships_for_fleet 7
+add_fleet 9
+pay_pirate 3 24
+unite_fleets 4 10
+add_pirate 3 -2
+unite_fleets -2 -1
+pay_pirate 7 69
+add_fleet 5
+pay_pirate 0 27
+add_fleet 5
+unite_fleets 3 1
+add_fleet 7
+pirate_argument 2 9
+pay_pirate 5 33
+unite_fleets 9 3
+pay_pirate 5 44
+num_ships_for_fleet 2
+pay_pirate 4 44
+add_fleet -2
+unite_fleets -1 9
+pay_pirate 6 21
+add_pirate 2 -1
+add_pirate 1 8
+get_pirate_money 1
+get_pirate_money 10
+add_pirate 4 7
+unite_fleets 8 6
+unite_fleets 4 -2
+add_pirate 4 2
+pay_pirate 4 22
+get_pirate_money -1
+unite_fleets 7 6
+add_pirate -2 9
+pay_pirate 5 56
+pirate_argument 8 -2
+pirate_argument 0 9
+add_pirate 2 10
+pirate_argument 4 -1
+num_ships_for_fleet 2
+unite_fleets 3 6
+add_pirate 6 10
+unite_fleets 7 10
+num_ships_for_fleet 8
+num_ships_for_fleet 6
+pirate_argument 8 7
+pirate_argument 9 3
+add_pirate -1 7
+unite_fleets -1 3
+add_pirate 4 4
+pay_pirate 10 3
+get_pirate_money -2
+num_ships_for_fleet -2
+add_fleet 4
+get_pirate_money 1
+get_pirate_money 1
+num_ships_for_fleet 7
+add_fleet 9
+pay_pirate 0 29
+num_ships_for_fleet 5
+num_ships_for_fleet 4
+pay_pirate 3 61
+unite_fleets 8 3
+num_ships_for_fleet 4
+pirate_argument 7 6
+num_ships_for_fleet -1
+get_pirate_money 1
+unite_fleets -1 9
+pirate_argument 7 -1
+add_fleet 4
+get_pirate_money 5
+unite_fleets 1 0
+add_pirate 7 4
+add_fleet 5
+num_ships_for_fleet 1
+pay_pirate 9 96
+add_fleet 5
+unite_fleets 6 5
+add_pirate 5 -1
+unite_fleets 3 -1
+pay_pirate 5 6
+num_ships_for_fleet -1
+pay_pirate 0 93
+pirate_argument 4 2
+pay_pirate 2 14
+num_ships_for_fleet 2
+unite_fleets 7 -1
+add_pirate -1 9
+unite_fleets 1 10
+add_fleet 0
+add_pirate -2 1
+add_pirate -2 3
+unite_fleets 9 6
+pirate_argument 5 -1
+add_fleet -1
+pirate_argument 8 1
+unite_fleets 6 0
+num_ships_for_fleet 0
+num_ships_for_fleet 6
+unite_fleets 8 0
+pirate_argument 5 0
+unite_fleets 5 -2
+unite_fleets 6 5
+get_pirate_money -2
+pay_pirate 2 45
+get_pirate_money 10
+add_fleet 1
+add_pirate 6 8
+add_pirate 2 1
+num_ships_for_fleet 8
+pirate_argument -2 9
+pay_pirate 4 13
+get_pirate_money 2
+num_ships_for_fleet 9
+add_pirate 3 0
+add_pirate -2 1
+add_fleet 7
+add_fleet 5
+unite_fleets 1 -2
+get_pirate_money 4
+add_fleet 9
+add_fleet 0
+num_ships_for_fleet 2
+add_fleet 6
+unite_fleets 6 1
+add_fleet 2
+add_fleet 4
+unite_fleets 6 0
+pirate_argument 4 10
+add_pirate -2 8
+pay_pirate 2 66
+add_fleet 6
+unite_fleets 2 4
+pay_pirate 8 79
+add_pirate 10 5
+add_pirate 1 7
+add_fleet 6
+pirate_argument 9 4
+get_pirate_money 6
+pirate_argument 0 -2
+unite_fleets 0 6
